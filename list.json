@@ -126,6 +126,13 @@
     "manifest": "https://jmp2.uk/sam-GBBD3200003T6.m3u8"
   },
   {
+    "number": "207",
+    "name": "BabyShark TV",
+    "code": "babyshark-tv",
+    "type": "video-manifest",
+    "manifest":"https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8"
+  },
+  {
     "number": "901",
     "name": "Dhivehi FM",
     "code": "fmair",
@@ -145,5 +152,12 @@
     "code": "dheenugeaduair",
     "type": "audio",
     "audio": "https://radio.psm.mv/dheenugeaduair"
+  },
+  {
+    "number": "990",
+    "name": "Cloudflare TV",
+    "code": "cloudflare-tv",
+    "type": "video-manifest",
+    "manifest":"https://cloudflare.tv/hls/live.m3u8"
   }
 ]
