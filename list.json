@@ -29,20 +29,27 @@
   },
   {
     "number": "105",
+    "name": "VTV",
+    "code": "vtv",
+    "type": "video-manifest",
+    "manifest": "https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8"
+  },
+  {
+    "number": "901",
     "name": "Dhivehi FM",
     "code": "fmair",
     "type": "audio",
     "audio": "https://radio.psm.mv/fmair"
   },
   {
-    "number": "106",
+    "number": "902",
     "name": "Dhivehi Raajjeyge Adu",
     "code": "draair",
     "type": "audio",
     "audio": "https://radio.psm.mv/draair"
   },
   {
-    "number": "107",
+    "number": "903",
     "name": "Dheenuge Adu",
     "code": "dheenugeaduair",
     "type": "audio",
