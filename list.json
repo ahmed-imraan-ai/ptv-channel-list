@@ -35,6 +35,27 @@
     "manifest": "https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8"
   },
   {
+    "number": "106",
+    "name": "SSTV",
+    "code": "sstv",
+    "type": "video-manifest",
+    "manifest": "webrtc://159.65.10.45:80/live/livestream"
+  },
+  {
+    "number": "107",
+    "name": "Raajje TV",
+    "code": "raajje-tv",
+    "type": "video-manifest",
+    "manifest": "https://stream.raajje.mv/live/rtv_live/index.m3u8"
+  },
+  {
+    "number": "108",
+    "name": "Channel 13",
+    "code": "channel13",
+    "type": "video-manifest",
+    "manifest": "https://stream.theyraonline.com/live/channel13@live/index.m3u8"
+  },
+  {
     "number": "901",
     "name": "Dhivehi FM",
     "code": "fmair",
