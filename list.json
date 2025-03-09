@@ -119,6 +119,13 @@
     "manifest": "https://x.canlitvapp.com/u-bbc2/index.m3u8"
   },
   {
+    "number": "206",
+    "name": "Tiny Pop",
+    "code": "tiny-pop-uk",
+    "type": "video-manifest",
+    "manifest": "https://jmp2.uk/sam-GBBD3200003T6.m3u8"
+  },
+  {
     "number": "901",
     "name": "Dhivehi FM",
     "code": "fmair",
