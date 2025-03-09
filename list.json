@@ -39,7 +39,7 @@
     "name": "SSTV",
     "code": "sstv",
     "type": "video-manifest",
-    "manifest": "webrtc://159.65.10.45:80/live/livestream"
+    "manifest": "https://sstv.ssplay.mv/hls/sstv-live/index.m3u8"
   },
   {
     "number": "107",
@@ -54,6 +54,27 @@
     "code": "channel13",
     "type": "video-manifest",
     "manifest": "https://stream.theyraonline.com/live/channel13@live/index.m3u8"
+  },
+  {
+    "number": "109",
+    "name": "Munnaaru",
+    "code": "munnaaru-mv",
+    "type": "video-manifest",
+    "manifest": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8"
+  },
+  {
+    "number": "110",
+    "name": "MMTV",
+    "code": "mmvt",
+    "type": "video-manifest",
+    "manifest": "https://sendlive.online/hls/mmtv.m3u8"
+  },
+  {
+    "number": "111",
+    "name": "Ocean TV Network",
+    "code": "ocean-tv-network",
+    "type": "video-manifest",
+    "manifest": "https://egress-stkplz7mbu4ftbof3zr94.live.streamer.wpstream.net/ev_wps_52076_oceant53da84_221_1717304220/hls/5yjq1wbd06ffe4t4.m3u8"
   },
   {
     "number": "190",
