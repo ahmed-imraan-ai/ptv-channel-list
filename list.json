@@ -134,10 +134,17 @@
   },
   {
     "number": "208",
-    "name": "30A TV Classic Movies",
-    "code": "30ATVClassicMovies",
+    "name": "30A Classic Movies",
+    "code": "30ATVClassicMovies.us",
     "type": "video-manifest",
     "manifest":"https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8"
+  },
+  {
+    "number": "209",
+    "name": "30A We Love Cars",
+    "code": "30AWeLoveCars.us",
+    "type": "video-manifest",
+    "manifest":"https://30a-tv.com/feeds/vidaa/cars.m3u8"
   },
   {
     "number": "901",
