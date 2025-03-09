@@ -1,0 +1,51 @@
+[
+  {
+    "number": "101",
+    "name": "TVM",
+    "code": "tvm",
+    "type": "video",
+    "manifest": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8"
+  },
+  {
+    "number": "102",
+    "name": "PSM News",
+    "code": "psm-news",
+    "type": "video",
+    "manifest": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8"
+  },
+  {
+    "number": "103",
+    "name": "Maldives TV",
+    "code": "mv-tv",
+    "type": "video",
+    "manifest": "https://live.maldivestv.mv/hls/stream/index.m3u8"
+  },
+  {
+    "number": "104",
+    "name": "Yes TV",
+    "code": "yes-tv",
+    "type": "video",
+    "manifest": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8"
+  },
+  {
+    "number": "105",
+    "name": "Dhivehi FM",
+    "code": "fmair",
+    "type": "audio",
+    "audio": "https://radio.psm.mv/fmair"
+  },
+  {
+    "number": "106",
+    "name": "Dhivehi Raajjeyge Adu",
+    "code": "draair",
+    "type": "audio",
+    "audio": "https://radio.psm.mv/draair"
+  },
+  {
+    "number": "107",
+    "name": "Dheenuge Adu",
+    "code": "dheenugeaduair",
+    "type": "audio",
+    "audio": "https://radio.psm.mv/dheenugeaduair"
+  }
+]
