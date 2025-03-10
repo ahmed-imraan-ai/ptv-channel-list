@@ -88,7 +88,7 @@
     "playlist": "https://egress-stkplz7mbu4ftbof3zr94.live.streamer.wpstream.net/ev_wps_52076_oceant53da84_221_1717304220/hls/5yjq1wbd06ffe4t4.m3u8"
   },
   {
-    "number": "190",
+    "number": "150",
     "name": "MakkahTV",
     "code": "makkah-tv",
     "type": "video",
@@ -96,7 +96,7 @@
     "playlist": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8"
   },
   {
-    "number": "191",
+    "number": "151",
     "name": "Al Quran Al Kareem TV",
     "code": "AlQuranAlKareemTV",
     "type": "video",
@@ -104,15 +104,15 @@
     "playlist": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8"
   },
   {
-    "number": "192",
+    "number": "152",
     "name": "Al Sunnah Al Nabawiyah TV",
     "code": "AlSunnahAlNabawiyahTV",
     "type": "video",
-    "category": "quran",
+    "category": "islamic",
     "playlist": "https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8"
   },
   {
-    "number": "201",
+    "number": "200",
     "name": "NHK World",
     "code": "nhkworld",
     "type": "video",
@@ -120,15 +120,7 @@
     "playlist": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8"
   },
   {
-    "number": "202",
-    "name": "Latest TV",
-    "code": "latest-tv-uk",
-    "type": "video",
-    "category": "other",
-    "playlist": "https://5a0e89631aa14.streamlock.net/LatestTelevision/LatestTelevision/playlist.m3u8"
-  },
-  {
-    "number": "203",
+    "number": "201",
     "name": "BBC News",
     "code": "bbc-news-uk",
     "type": "video",
@@ -136,7 +128,7 @@
     "playlist": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"
   },
   {
-    "number": "204",
+    "number": "202",
     "name": "BBC One",
     "code": "bbc-1",
     "type": "video",
@@ -144,7 +136,7 @@
     "playlist": "https://x.canlitvapp.com/u-bbc-1/index.m3u8"
   },
   {
-    "number": "205",
+    "number": "203",
     "name": "BBC Two",
     "code": "bbc-2",
     "type": "video",
@@ -152,39 +144,7 @@
     "playlist": "https://x.canlitvapp.com/u-bbc2/index.m3u8"
   },
   {
-    "number": "206",
-    "name": "Tiny Pop",
-    "code": "tiny-pop-uk",
-    "type": "video",
-    "category": "kids",
-    "playlist": "https://jmp2.uk/sam-GBBD3200003T6.m3u8"
-  },
-  {
-    "number": "207",
-    "name": "BabyShark TV",
-    "code": "babyshark-tv",
-    "type": "video",
-    "category": "kids",
-    "playlist": "https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8"
-  },
-  {
-    "number": "208",
-    "name": "30A Classic Movies",
-    "code": "30ATVClassicMovies.us",
-    "type": "video",
-    "category": "movies",
-    "playlist": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8"
-  },
-  {
-    "number": "209",
-    "name": "30A We Love Cars",
-    "code": "30AWeLoveCars.us",
-    "type": "video",
-    "category": "entertainment",
-    "playlist": "https://30a-tv.com/feeds/vidaa/cars.m3u8"
-  },
-  {
-    "number": "210",
+    "number": "250",
     "name": "Nick Jr",
     "code": "NickJrPlutoTV",
     "type": "video",
@@ -192,7 +152,7 @@
     "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf"
   },
   {
-    "number": "211",
+    "number": "251",
     "name": "Disney Jr",
     "code": "DISNEY_JR",
     "type": "video",
@@ -200,12 +160,59 @@
     "playlist": "http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8"
   },
   {
-    "number": "212",
+    "number": "252",
+    "name": "Tiny Pop",
+    "code": "tiny-pop-uk",
+    "type": "video",
+    "category": "kids",
+    "playlist": "https://jmp2.uk/sam-GBBD3200003T6.m3u8"
+  },
+  {
+    "number": "253",
+    "name": "BabyShark TV",
+    "code": "babyshark-tv",
+    "type": "video",
+    "category": "kids",
+    "playlist": "https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8"
+  },
+  {
+    "number": "300",
     "name": "MyTime Movie Network",
     "code": "mytime-tcl",
     "type": "video",
     "category": "movies",
     "playlist": "https://mytime-tcl.amagi.tv/playlist.m3u8"
+  },
+  {
+    "number": "301",
+    "name": "30A Classic Movies",
+    "code": "30ATVClassicMovies.us",
+    "type": "video",
+    "category": "movies",
+    "playlist": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8"
+  },
+  {
+    "number": "350",
+    "name": "30A We Love Cars",
+    "code": "30AWeLoveCars.us",
+    "type": "video",
+    "category": "entertainment",
+    "playlist": "https://30a-tv.com/feeds/vidaa/cars.m3u8"
+  },
+  {
+    "number": "400",
+    "name": "Cloudflare TV",
+    "code": "cloudflare-tv",
+    "type": "video",
+    "playlist": "https://cloudflare.tv/hls/live.m3u8"
+  },
+  {
+    "number": "401",
+    "name": "Latest TV",
+    "code": "latest-tv-uk",
+    "type": "video",
+    "category": "other",
+    "playlist": "https://5a0e89631aa14.streamlock.net/LatestTelevision/LatestTelevision/playlist.m3u8"
   },
   {
     "number": "901",
@@ -227,12 +234,5 @@
     "code": "dheenugeaduair",
     "type": "audio",
     "audio": "https://radio.psm.mv/dheenugeaduair"
-  },
-  {
-    "number": "990",
-    "name": "Cloudflare TV",
-    "code": "cloudflare-tv",
-    "type": "video",
-    "playlist": "https://cloudflare.tv/hls/live.m3u8"
   }
 ]
