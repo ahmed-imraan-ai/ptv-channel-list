@@ -328,6 +328,14 @@
     "playlist": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8"
   },
   {
+    "number": "455",
+    "name": "RT Documentry",
+    "code": "rt-documentary",
+    "type": "video",
+    "category": "documentry",
+    "playlist": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8"
+  },
+  {
     "number": "901",
     "name": "Dhivehi FM",
     "code": "fmair",
