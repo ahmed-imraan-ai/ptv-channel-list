@@ -272,6 +272,14 @@
     "playlist": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8"
   },
   {
+    "number": "312",
+    "name": "FX Movies",
+    "code": "fxm",
+    "type": "video",
+    "category": "movies",
+    "playlist": "https://tvpass.org/live/FXMovieChannel/hd"
+  },
+  {
     "number": "350",
     "name": "30A We Love Cars",
     "code": "30AWeLoveCars.us",
