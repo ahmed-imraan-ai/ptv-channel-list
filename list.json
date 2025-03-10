@@ -129,6 +129,14 @@
   },
   {
     "number": "200",
+    "name": "Al Jazeera",
+    "code": "al-jazeera-english",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8"
+  },
+  {
+    "number": "210",
     "name": "NHK World",
     "code": "nhkworld",
     "type": "video",
@@ -136,7 +144,7 @@
     "playlist": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8"
   },
   {
-    "number": "201",
+    "number": "211",
     "name": "BBC News",
     "code": "bbc-news-uk",
     "type": "video",
@@ -144,7 +152,7 @@
     "playlist": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"
   },
   {
-    "number": "202",
+    "number": "212",
     "name": "BBC One",
     "code": "bbc-1",
     "type": "video",
@@ -152,7 +160,7 @@
     "playlist": "https://x.canlitvapp.com/u-bbc-1/index.m3u8"
   },
   {
-    "number": "203",
+    "number": "213",
     "name": "BBC Two",
     "code": "bbc-2",
     "type": "video",
@@ -160,7 +168,7 @@
     "playlist": "https://x.canlitvapp.com/u-bbc2/index.m3u8"
   },
   {
-    "number": "205",
+    "number": "215",
     "name": "CGTN",
     "code": "cgtn",
     "type": "video",
@@ -168,7 +176,7 @@
     "playlist": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
   },
   {
-    "number": "207",
+    "number": "217",
     "name": "DW",
     "code": "dw-english",
     "type": "video",
@@ -176,12 +184,12 @@
     "playlist": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
   },
   {
-    "number": "208",
+    "number": "218",
     "name": "France 24",
     "code": "f24-english",
     "type": "video",
     "category": "news",
-    "playlist": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8"
+    "playlist": "https://live.france24.com/hls/live/17218-b/F24_EN_HI_HLS/master_5000.m3u8"
   },
   {
     "number": "250",
