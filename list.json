@@ -160,6 +160,22 @@
     "playlist": "https://x.canlitvapp.com/u-bbc2/index.m3u8"
   },
   {
+    "number": "205",
+    "name": "CGTN",
+    "code": "cgtn",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
+  },
+  {
+    "number": "207",
+    "name": "DW",
+    "code": "dw-english",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+  },
+  {
     "number": "250",
     "name": "Nick Jr",
     "code": "NickJrPlutoTV",
@@ -294,6 +310,14 @@
     "type": "video",
     "category": "documentry",
     "playlist": "https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8"
+  },
+  {
+    "number": "454",
+    "name": "CGTN Documentry",
+    "code": "cgtn-documentary",
+    "type": "video",
+    "category": "documentry",
+    "playlist": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8"
   },
   {
     "number": "901",
