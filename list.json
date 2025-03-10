@@ -288,6 +288,14 @@
     "playlist": "https://tvpass.org/live/FXMovieChannel/hd"
   },
   {
+    "number": "313",
+    "name": "MBC Bollywood HD",
+    "code": "mbc",
+    "type": "video",
+    "category": "movies",
+    "playlist": "https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8"
+  },
+  {
     "number": "350",
     "name": "30A We Love Cars",
     "code": "30AWeLoveCars.us",
