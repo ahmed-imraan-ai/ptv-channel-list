@@ -297,11 +297,51 @@
   },
   {
     "number": "330",
+    "name": "KBS 1",
+    "code": "kbs-1",
+    "type": "video",
+    "category": "movies",
+    "playlist": "http://mytv.dothome.co.kr/ch/public/1.php"
+  },
+  {
+    "number": "331",
+    "name": "KBS 2",
+    "code": "kbs-2",
+    "type": "video",
+    "category": "movies",
+    "playlist": "http://mytv.dothome.co.kr/ch/public/3.php"
+  },
+  {
+    "number": "332",
     "name": "KBS Drama",
     "code": "kbs-drama",
     "type": "video",
     "category": "movies",
     "playlist": "http://mytv.dothome.co.kr/ch/catv/2.php"
+  },
+  {
+    "number": "333",
+    "name": "KBS Joy",
+    "code": "kbs-joy",
+    "type": "video",
+    "category": "movies",
+    "playlist": "http://mytv.dothome.co.kr/ch/catv/3.php"
+  },
+  {
+    "number": "334",
+    "name": "KBS Life",
+    "code": "kbs-life",
+    "type": "video",
+    "category": "movies",
+    "playlist": "http://mytv.dothome.co.kr/ch/catv/5.php"
+  },
+  {
+    "number": "335",
+    "name": "KBS Kids",
+    "code": "kbs-kids",
+    "type": "video",
+    "category": "movies",
+    "playlist": "http://mytv.dothome.co.kr/ch/catv/6.php"
   },
   {
     "number": "350",
