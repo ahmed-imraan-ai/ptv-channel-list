@@ -120,6 +120,14 @@
     "playlist": "https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8"
   },
   {
+    "number": "154",
+    "name": "Peace TV",
+    "code": "PeaceTV",
+    "type": "video",
+    "category": "islamic",
+    "playlist": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
+  },
+  {
     "number": "200",
     "name": "NHK World",
     "code": "nhkworld",
@@ -208,6 +216,22 @@
     "playlist": "https://30a-tv.com/feeds/vidaa/cars.m3u8"
   },
   {
+    "number": "351",
+    "name": "Comedy Central",
+    "code": "ComedyCentral",
+    "type": "video",
+    "category": "entertainment",
+    "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a408bd341e000818fcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b861-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc03faa5-401f-4a68-9972-153b1f336cac"
+  },
+  {
+    "number": "351",
+    "name": "Comedy Central Stand-Up",
+    "code": "ComedyCentralStandUp",
+    "type": "video",
+    "category": "entertainment",
+    "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a9ccd661bb00081bd93a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b863-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7fed5fcc-0dbc-42e9-8b2f-d5eb610c5074"
+  },
+  {
     "number": "400",
     "name": "Cloudflare TV",
     "code": "cloudflare-tv",
@@ -221,6 +245,22 @@
     "type": "video",
     "category": "other",
     "playlist": "https://5a0e89631aa14.streamlock.net/LatestTelevision/LatestTelevision/playlist.m3u8"
+  },
+  {
+    "number": "450",
+    "name": "National Geographic",
+    "code": "NationalGeographic",
+    "type": "video",
+    "category": "documentry",
+    "playlist": "http://62.210.211.188:2095/play/a00d"
+  },
+  {
+    "number": "451",
+    "name": "National Geographic Wild",
+    "code": "NationalGeographicWild",
+    "type": "video",
+    "category": "documentry",
+    "playlist": "http://109.233.89.166/National_Geographic_Wild_HD/index.m3u8"
   },
   {
     "number": "901",
