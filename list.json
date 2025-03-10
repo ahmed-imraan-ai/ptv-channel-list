@@ -236,12 +236,21 @@
     "name": "Cloudflare TV",
     "code": "cloudflare-tv",
     "type": "video",
+    "category": "other",
     "playlist": "https://cloudflare.tv/hls/live.m3u8"
   },
   {
     "number": "401",
     "name": "Latest TV",
     "code": "latest-tv-uk",
+    "type": "video",
+    "category": "other",
+    "playlist": "https://5a0e89631aa14.streamlock.net/LatestTelevision/LatestTelevision/playlist.m3u8"
+  },
+  {
+    "number": "402",
+    "name": "NHK General TV",
+    "code": "NHKGeneralTV",
     "type": "video",
     "category": "other",
     "playlist": "https://5a0e89631aa14.streamlock.net/LatestTelevision/LatestTelevision/playlist.m3u8"
@@ -264,10 +273,18 @@
   },
   {
     "number": "452",
+    "name": "Pluto TV Science",
+    "code": "PlutoTVScience",
+    "type": "video",
+    "category": "documentry",
+    "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b61-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31adb772-adc8-4202-ad66-25e3c1a49df7"
+  },
+  {
+    "number": "453",
     "name": "AXS TV NOW",
     "code": "AXSTVNOW",
     "type": "video",
-    "category": "entertainment",
+    "category": "documentry",
     "playlist": "https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8"
   },
   {
