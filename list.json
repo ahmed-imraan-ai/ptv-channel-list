@@ -263,6 +263,14 @@
     "playlist": "http://109.233.89.166/National_Geographic_Wild_HD/index.m3u8"
   },
   {
+    "number": "452",
+    "name": "AXS TV NOW",
+    "code": "AXSTVNOW",
+    "type": "video",
+    "category": "entertainment",
+    "playlist": "https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8"
+  },
+  {
     "number": "901",
     "name": "Dhivehi FM",
     "code": "fmair",
