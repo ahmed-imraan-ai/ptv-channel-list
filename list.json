@@ -400,6 +400,22 @@
     "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a9ccd661bb00081bd93a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b863-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7fed5fcc-0dbc-42e9-8b2f-d5eb610c5074"
   },
   {
+    "number": "353",
+    "name": "Bon Appetit",
+    "code": "bonappetit",
+    "type": "video",
+    "category": "entertainment",
+    "playlist": "https://bonappetit-samsung.amagi.tv/en-vtt/index.m3u8"
+  },
+  {
+    "number": "355",
+    "name": "In The Kitchen",
+    "code": "in-the-kitchen",
+    "type": "video",
+    "category": "entertainment",
+    "playlist": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/medhigh.m3u8"
+  },
+  {
     "number": "400",
     "name": "Cloudflare TV",
     "code": "cloudflare-tv",
