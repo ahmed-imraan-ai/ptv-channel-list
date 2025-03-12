@@ -1,0 +1,304 @@
+[
+  {
+    "number": "101",
+    "name": "TVM",
+    "code": "tvm",
+    "type": "video",
+    "category": "local",
+    "playlist": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8"
+  },
+  {
+    "number": "102",
+    "name": "PSM News",
+    "code": "psm-news",
+    "type": "video",
+    "category": "local",
+    "playlist": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8"
+  },
+  {
+    "number": "103",
+    "name": "Maldives TV",
+    "code": "mv-tv",
+    "type": "video",
+    "category": "local",
+    "playlist": "https://live.maldivestv.mv/hls/stream/index.m3u8"
+  },
+  {
+    "number": "104",
+    "name": "Yes TV",
+    "code": "yes-tv",
+    "type": "video",
+    "category": "local",
+    "playlist": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8"
+  },
+  {
+    "number": "105",
+    "name": "VTV",
+    "code": "vtv",
+    "type": "video",
+    "category": "local",
+    "playlist": "https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8"
+  },
+  {
+    "number": "106",
+    "name": "SSTV",
+    "code": "sstv",
+    "type": "video",
+    "category": "local",
+    "playlist": "https://sstv.ssplay.mv/hls/sstv-live/index.m3u8"
+  },
+  {
+    "number": "107",
+    "name": "Raajje TV",
+    "code": "raajje-tv",
+    "type": "video",
+    "category": "local",
+    "playlist": "https://stream.raajje.mv/live/rtv_live/index.m3u8"
+  },
+  {
+    "number": "108",
+    "name": "Channel 13",
+    "code": "channel13",
+    "type": "video",
+    "category": "local",
+    "playlist": "https://stream.theyraonline.com/live/channel13@live/index.m3u8"
+  },
+  {
+    "number": "109",
+    "name": "Munnaaru",
+    "code": "munnaaru-mv",
+    "type": "video",
+    "category": "local",
+    "playlist": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8"
+  },
+  {
+    "number": "110",
+    "name": "MMTV",
+    "code": "mmvt",
+    "type": "video",
+    "category": "local",
+    "playlist": "https://sendlive.online/hls/mmtv.m3u8"
+  },
+  {
+    "number": "111",
+    "name": "Ocean TV Network",
+    "code": "ocean-tv-network",
+    "type": "video",
+    "category": "local",
+    "playlist": "https://egress-stkplz7mbu4ftbof3zr94.live.streamer.wpstream.net/ev_wps_52076_oceant53da84_221_1717304220/hls/5yjq1wbd06ffe4t4.m3u8"
+  },
+  {
+    "number": "150",
+    "name": "MakkahTV",
+    "code": "makkah-tv",
+    "type": "video",
+    "category": "islamic",
+    "playlist": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8"
+  },
+  {
+    "number": "151",
+    "name": "Al Quran Al Kareem TV",
+    "code": "AlQuranAlKareemTV",
+    "type": "video",
+    "category": "quran",
+    "playlist": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8"
+  },
+  {
+    "number": "152",
+    "name": "Al Sunnah Al Nabawiyah TV",
+    "code": "AlSunnahAlNabawiyahTV",
+    "type": "video",
+    "category": "islamic",
+    "playlist": "https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8"
+  },
+  {
+    "number": "153",
+    "name": "Noor Dubai",
+    "code": "NoorDubai",
+    "type": "video",
+    "category": "islamic",
+    "playlist": "https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8"
+  },
+  {
+    "number": "154",
+    "name": "Peace TV",
+    "code": "PeaceTV",
+    "type": "video",
+    "category": "islamic",
+    "playlist": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
+  },
+  {
+    "number": "200",
+    "name": "Al Jazeera",
+    "code": "al-jazeera-english",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8"
+  },
+  {
+    "number": "210",
+    "name": "NHK World",
+    "code": "nhkworld",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8"
+  },
+  {
+    "number": "211",
+    "name": "BBC News",
+    "code": "bbc-news-uk",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"
+  },
+  {
+    "number": "212",
+    "name": "BBC One",
+    "code": "bbc-1",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://x.canlitvapp.com/u-bbc-1/index.m3u8"
+  },
+  {
+    "number": "213",
+    "name": "BBC Two",
+    "code": "bbc-2",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://x.canlitvapp.com/u-bbc2/index.m3u8"
+  },
+  {
+    "number": "215",
+    "name": "CGTN",
+    "code": "cgtn",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
+  },
+  {
+    "number": "217",
+    "name": "DW",
+    "code": "dw-english",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+  },
+  {
+    "number": "218",
+    "name": "France 24",
+    "code": "f24-english",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8"
+  },
+  {
+    "number": "250",
+    "name": "Nick Jr",
+    "code": "NickJrPlutoTV",
+    "type": "video",
+    "category": "kids",
+    "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf"
+  },
+  {
+    "number": "251",
+    "name": "Disney Jr",
+    "code": "DISNEY_JR",
+    "type": "video",
+    "category": "kids",
+    "playlist": "http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8"
+  },
+  {
+    "number": "252",
+    "name": "Tiny Pop",
+    "code": "tiny-pop-uk",
+    "type": "video",
+    "category": "kids",
+    "playlist": "https://jmp2.uk/sam-GBBD3200003T6.m3u8"
+  },
+
+  {
+    "number": "351",
+    "name": "Comedy Central",
+    "code": "ComedyCentral",
+    "type": "video",
+    "category": "entertainment",
+    "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a408bd341e000818fcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b861-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc03faa5-401f-4a68-9972-153b1f336cac"
+  },
+  {
+    "number": "352",
+    "name": "Comedy Central Stand-Up",
+    "code": "ComedyCentralStandUp",
+    "type": "video",
+    "category": "entertainment",
+    "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a9ccd661bb00081bd93a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b863-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7fed5fcc-0dbc-42e9-8b2f-d5eb610c5074"
+  },
+  {
+    "number": "353",
+    "name": "Bon Appetit",
+    "code": "bonappetit",
+    "type": "video",
+    "category": "entertainment",
+    "playlist": "https://bonappetit-samsung.amagi.tv/en-vtt/index.m3u8"
+  },
+  {
+    "number": "355",
+    "name": "In The Kitchen",
+    "code": "in-the-kitchen",
+    "type": "video",
+    "category": "entertainment",
+    "playlist": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/medhigh.m3u8"
+  },
+  {
+    "number": "450",
+    "name": "National Geographic",
+    "code": "NationalGeographic",
+    "type": "video",
+    "category": "documentry",
+    "playlist": "http://62.210.211.188:2095/play/a00d"
+  },
+  {
+    "number": "452",
+    "name": "Pluto TV Science",
+    "code": "PlutoTVScience",
+    "type": "video",
+    "category": "documentry",
+    "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b61-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31adb772-adc8-4202-ad66-25e3c1a49df7"
+  },
+  {
+    "number": "454",
+    "name": "CGTN Documentry",
+    "code": "cgtn-documentary",
+    "type": "video",
+    "category": "documentry",
+    "playlist": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8"
+  },
+  {
+    "number": "455",
+    "name": "RT Documentry",
+    "code": "rt-documentary",
+    "type": "video",
+    "category": "documentry",
+    "playlist": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8"
+  },
+  {
+    "number": "901",
+    "name": "Dhivehi FM",
+    "code": "fmair",
+    "type": "audio",
+    "audio": "https://radio.psm.mv/fmair"
+  },
+  {
+    "number": "902",
+    "name": "Dhivehi Raajjeyge Adu",
+    "code": "draair",
+    "type": "audio",
+    "audio": "https://radio.psm.mv/draair"
+  },
+  {
+    "number": "903",
+    "name": "Dheenuge Adu",
+    "code": "dheenugeaduair",
+    "type": "audio",
+    "audio": "https://radio.psm.mv/dheenugeaduair"
+  }
+]
