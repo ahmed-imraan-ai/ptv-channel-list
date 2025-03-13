@@ -84,7 +84,7 @@
     "name": "KBS Kids",
     "code": "kbs-kids",
     "type": "video-redirect",
-    "category": "movies",
+    "category": "kids",
     "playlist": "http://mytv.dothome.co.kr/ch/catv/6.php"
   }
 ]

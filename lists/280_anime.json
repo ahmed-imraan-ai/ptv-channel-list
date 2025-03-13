@@ -1,34 +1,34 @@
 [
   {
-    "number": "390",
+    "number": "280",
     "name": "Animax",
     "code": "animax",
     "type": "video",
-    "category": "movies",
+    "category": "kids",
     "playlist": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
   },
   {
-    "number": "391",
+    "number": "281",
     "name": "Anime TV",
     "code": "anime-tv",
     "type": "video",
-    "category": "movies",
+    "category": "kids",
     "playlist": "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8"
   },
   {
-    "number": "392",
+    "number": "282",
     "name": "Anime All Day",
     "code": "anime-all-day",
     "type": "video",
-    "category": "movies",
+    "category": "kids",
     "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356"
   },
   {
-    "number": "393",
+    "number": "283",
     "name": "Anime Accion",
     "code": "pluto-anime-accion",
     "type": "video",
-    "category": "movies",
+    "category": "kids",
     "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356"
   }
 ]
