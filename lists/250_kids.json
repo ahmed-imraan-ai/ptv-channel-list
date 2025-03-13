@@ -17,54 +17,94 @@
   },
   {
     "number": "252",
-    "name": "Disney Channel",
+    "name": "Disney Channel SD",
+    "code": "DISNEY_CH",
+    "type": "video-redirect",
+    "category": "kids",
+    "playlist": "https://tvpass.org/live/DisneyChannelEast/sd"
+  },
+  {
+    "number": "253",
+    "name": "Disney Channel HD",
     "code": "DISNEY_CH",
     "type": "video-redirect",
     "category": "kids",
     "playlist": "https://tvpass.org/live/DisneyChannelEast/hd"
   },
   {
-    "number": "253",
-    "name": "Disney XD",
+    "number": "254",
+    "name": "Disney XD HD",
     "code": "DISNEY_XD",
     "type": "video-redirect",
     "category": "kids",
     "playlist": "https://tvpass.org/live/DisneyXDEast/hd"
   },
   {
-    "number": "254",
+    "number": "255",
     "name": "Cartoon Network",
+    "code": "CartoonNetworkEast",
+    "type": "video-redirect",
+    "category": "kids",
+    "playlist": "https://tvpass.org/live/CartoonNetworkEast/sd"
+  },
+  {
+    "number": "256",
+    "name": "Cartoon Network HD",
     "code": "CartoonNetworkEast",
     "type": "video-redirect",
     "category": "kids",
     "playlist": "https://tvpass.org/live/CartoonNetworkEast/hd"
   },
   {
-    "number": "255",
+    "number": "257",
     "name": "Nickelodeon",
+    "code": "nickelodeon",
+    "type": "video-redirect",
+    "category": "kids",
+    "playlist": "https://tvpass.org/live/NickelodeonEast/sd"
+  },
+  {
+    "number": "258",
+    "name": "Nickelodeon HD",
     "code": "nickelodeon",
     "type": "video-redirect",
     "category": "kids",
     "playlist": "https://tvpass.org/live/NickelodeonEast/hd"
   },
   {
-    "number": "256",
+    "number": "259",
     "name": "Nicktoons",
+    "code": "nicktoons",
+    "type": "video-redirect",
+    "category": "kids",
+    "playlist": "https://tvpass.org/live/NicktoonsEast/sd"
+  },
+  {
+    "number": "260",
+    "name": "Nicktoons HD",
     "code": "nicktoons",
     "type": "video-redirect",
     "category": "kids",
     "playlist": "https://tvpass.org/live/NicktoonsEast/hd"
   },
   {
-    "number": "257",
+    "number": "261",
     "name": "TeenNick",
+    "code": "TeenNickEast",
+    "type": "video-redirect",
+    "category": "kids",
+    "playlist": "https://tvpass.org/live/TeenNickEast/sd"
+  },
+  {
+    "number": "262",
+    "name": "TeenNick HD",
     "code": "TeenNickEast",
     "type": "video-redirect",
     "category": "kids",
     "playlist": "https://tvpass.org/live/TeenNickEast/hd"
   },
   {
-    "number": "260",
+    "number": "263",
     "name": "Tiny Pop",
     "code": "tiny-pop-uk",
     "type": "video",
@@ -72,7 +112,7 @@
     "playlist": "https://jmp2.uk/sam-GBBD3200003T6.m3u8"
   },
   {
-    "number": "261",
+    "number": "264",
     "name": "BabyShark TV",
     "code": "babyshark-tv",
     "type": "video",
@@ -80,7 +120,7 @@
     "playlist": "https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8"
   },
   {
-    "number": "262",
+    "number": "265",
     "name": "KBS Kids",
     "code": "kbs-kids",
     "type": "video-redirect",
