@@ -19,7 +19,7 @@
     "number": "202",
     "name": "CNN",
     "code": "cnn",
-    "type": "video",
+    "type": "video-redirect",
     "category": "news",
     "playlist": "https://tvpass.org/live/CNN/hd"
   },

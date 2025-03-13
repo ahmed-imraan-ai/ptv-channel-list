@@ -147,7 +147,7 @@
     "number": "202",
     "name": "CNN",
     "code": "cnn",
-    "type": "video",
+    "type": "video-redirect",
     "category": "news",
     "playlist": "https://tvpass.org/live/CNN/hd"
   },
@@ -203,7 +203,7 @@
     "number": "252",
     "name": "Disney Channel",
     "code": "DISNEY_CH",
-    "type": "video",
+    "type": "video-redirect",
     "category": "kids",
     "playlist": "https://tvpass.org/live/DisneyChannelEast/hd"
   },
@@ -211,7 +211,7 @@
     "number": "253",
     "name": "Disney XD",
     "code": "DISNEY_XD",
-    "type": "video",
+    "type": "video-redirect",
     "category": "kids",
     "playlist": "https://tvpass.org/live/DisneyXDEast/sd"
   },
@@ -219,7 +219,7 @@
     "number": "254",
     "name": "Cartoon Network (USA East)",
     "code": "CartoonNetworkEast",
-    "type": "video",
+    "type": "video-redirect",
     "category": "kids",
     "playlist": "https://tvpass.org/live/CartoonNetworkEast/hd"
   },
@@ -227,7 +227,7 @@
     "number": "255",
     "name": "Nickelodeon",
     "code": "nickelodeon",
-    "type": "video",
+    "type": "video-redirect",
     "category": "kids",
     "playlist": "https://tvpass.org/live/NickelodeonEast/hd"
   },
@@ -235,7 +235,7 @@
     "number": "256",
     "name": "Nicktoons",
     "code": "nicktoons",
-    "type": "video",
+    "type": "video-redirect",
     "category": "kids",
     "playlist": "https://tvpass.org/live/NicktoonsEast/hd"
   },
@@ -243,7 +243,7 @@
     "number": "257",
     "name": "TeenNick",
     "code": "TeenNickEast",
-    "type": "video",
+    "type": "video-redirect",
     "category": "kids",
     "playlist": "https://tvpass.org/live/TeenNickEast/hd"
   },
@@ -347,7 +347,7 @@
     "number": "309",
     "name": "FX Movies",
     "code": "fxm",
-    "type": "video",
+    "type": "video-redirect",
     "category": "movies",
     "playlist": "https://tvpass.org/live/FXMovieChannel/hd"
   },
@@ -363,7 +363,7 @@
     "number": "311",
     "name": "E!",
     "code": "EEast",
-    "type": "video",
+    "type": "video-redirect",
     "category": "movies",
     "playlist": "https://tvpass.org/live/EEast/hd"
   },
@@ -371,7 +371,7 @@
     "number": "312",
     "name": "TNT",
     "code": "TNTEast",
-    "type": "video",
+    "type": "video-redirect",
     "category": "movies",
     "playlist": "https://tvpass.org/live/TNTEast/hd"
   },
@@ -379,7 +379,7 @@
     "number": "350",
     "name": "TBS",
     "code": "TBSEast",
-    "type": "video",
+    "type": "video-redirect",
     "category": "entertainment",
     "playlist": "https://tvpass.org/live/TBSEast/hd"
   },
@@ -491,7 +491,7 @@
     "number": "402",
     "name": "Food Network",
     "code": "FoodNetwork",
-    "type": "video",
+    "type": "video-redirect",
     "category": "entertainment",
     "playlist": "https://tvpass.org/live/FoodNetworkEast/hd"
   },
@@ -499,7 +499,7 @@
     "number": "403",
     "name": "The Cooking Channel",
     "code": "CookingChannel",
-    "type": "video",
+    "type": "video-redirect",
     "category": "entertainment",
     "playlist": "https://tvpass.org/live/CookingChannel/hd"
   },
@@ -507,7 +507,7 @@
     "number": "404",
     "name": "TLC",
     "code": "TLCEast",
-    "type": "video",
+    "type": "video-redirect",
     "category": "entertainment",
     "playlist": "https://tvpass.org/live/TLCEast/hd"
   },
@@ -555,7 +555,7 @@
     "number": "452",
     "name": "Discovery Channel",
     "code": "DiscoveryChannelEast",
-    "type": "video",
+    "type": "video-redirect",
     "category": "documentary",
     "playlist": "https://tvpass.org/live/DiscoveryChannelEast/hd"
   },
@@ -579,7 +579,7 @@
     "number": "455",
     "name": "Animal Planet",
     "code": "animal-planet",
-    "type": "video",
+    "type": "video-redirect",
     "category": "documentary",
     "playlist": "https://tvpass.org/live/AnimalPlanetEast/hd"
   },
@@ -587,7 +587,7 @@
     "number": "456",
     "name": "Discovery Life",
     "code": "DiscoveryLife",
-    "type": "video",
+    "type": "video-redirect",
     "category": "documentary",
     "playlist": "https://tvpass.org/live/DiscoveryLife/hd"
   },
@@ -595,7 +595,7 @@
     "number": "457",
     "name": "History Channel",
     "code": "HistoryChannel",
-    "type": "video",
+    "type": "video-redirect",
     "category": "documentary",
     "playlist": "https://tvpass.org/live/HistoryEast/hd"
   },
@@ -619,7 +619,7 @@
     "number": "500",
     "name": "ESPN",
     "code": "ESPN",
-    "type": "video",
+    "type": "video-redirect",
     "category": "sports",
     "playlist": "https://tvpass.org/live/ESPN/hd"
   },
@@ -627,7 +627,7 @@
     "number": "501",
     "name": "ESPN 2",
     "code": "ESPN2",
-    "type": "video",
+    "type": "video-redirect",
     "category": "sports",
     "playlist": "https://tvpass.org/live/ESPN2/hd"
   },
@@ -635,7 +635,7 @@
     "number": "502",
     "name": "ESPN U",
     "code": "ESPNU",
-    "type": "video",
+    "type": "video-redirect",
     "category": "sports",
     "playlist": "https://tvpass.org/live/ESPNU/hd"
   },
@@ -643,7 +643,7 @@
     "number": "503",
     "name": "ESPN News",
     "code": "ESPNNews",
-    "type": "video",
+    "type": "video-redirect",
     "category": "sports",
     "playlist": "https://tvpass.org/live/ESPNews/hd"
   },
@@ -651,7 +651,7 @@
     "number": "504",
     "name": "SEC Network",
     "code": "SECN",
-    "type": "video",
+    "type": "video-redirect",
     "category": "sports",
     "playlist": "https://tvpass.org/live/SECN/hd"
   },
@@ -683,7 +683,7 @@
     "number": "508",
     "name": "Fox Sports 2",
     "code": "fox-sports2",
-    "type": "video",
+    "type": "video-redirect",
     "category": "sports",
     "playlist": "https://tvpass.org/live/FoxSports2/hd"
   },
@@ -691,7 +691,7 @@
     "number": "511",
     "name": "NBA TV",
     "code": "nbatv",
-    "type": "video",
+    "type": "video-redirect",
     "category": "sports",
     "playlist": "https://tvpass.org/live/NBATV/hd"
   },
@@ -699,7 +699,7 @@
     "number": "512",
     "name": "New England Sports Network HD",
     "code": "new-england-sports-network",
-    "type": "video",
+    "type": "video-redirect",
     "category": "sports",
     "playlist": "https://tvpass.org/live/new-england-sports-network/hd"
   },
@@ -707,7 +707,7 @@
     "number": "521",
     "name": "TSN1",
     "code": "TSN1",
-    "type": "video",
+    "type": "video-redirect",
     "category": "sports",
     "playlist": "https://tvpass.org/live/tsn1/hd"
   },
@@ -715,7 +715,7 @@
     "number": "522",
     "name": "TSN2",
     "code": "TSN2",
-    "type": "video",
+    "type": "video-redirect",
     "category": "sports",
     "playlist": "https://tvpass.org/live/tsn2/hd"
   },
@@ -723,7 +723,7 @@
     "number": "523",
     "name": "TSN3",
     "code": "TSN3",
-    "type": "video",
+    "type": "video-redirect",
     "category": "sports",
     "playlist": "https://tvpass.org/live/tsn3/hd"
   },
@@ -731,7 +731,7 @@
     "number": "524",
     "name": "TSN4",
     "code": "TSN4",
-    "type": "video",
+    "type": "video-redirect",
     "category": "sports",
     "playlist": "https://tvpass.org/live/tsn4/hd"
   },
@@ -739,7 +739,7 @@
     "number": "525",
     "name": "TSN5",
     "code": "TSN5",
-    "type": "video",
+    "type": "video-redirect",
     "category": "sports",
     "playlist": "https://tvpass.org/live/tsn5/hd"
   },

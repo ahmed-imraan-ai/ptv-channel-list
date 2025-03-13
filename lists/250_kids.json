@@ -19,7 +19,7 @@
     "number": "252",
     "name": "Disney Channel",
     "code": "DISNEY_CH",
-    "type": "video",
+    "type": "video-redirect",
     "category": "kids",
     "playlist": "https://tvpass.org/live/DisneyChannelEast/hd"
   },
@@ -27,7 +27,7 @@
     "number": "253",
     "name": "Disney XD",
     "code": "DISNEY_XD",
-    "type": "video",
+    "type": "video-redirect",
     "category": "kids",
     "playlist": "https://tvpass.org/live/DisneyXDEast/sd"
   },
@@ -35,7 +35,7 @@
     "number": "254",
     "name": "Cartoon Network (USA East)",
     "code": "CartoonNetworkEast",
-    "type": "video",
+    "type": "video-redirect",
     "category": "kids",
     "playlist": "https://tvpass.org/live/CartoonNetworkEast/hd"
   },
@@ -43,7 +43,7 @@
     "number": "255",
     "name": "Nickelodeon",
     "code": "nickelodeon",
-    "type": "video",
+    "type": "video-redirect",
     "category": "kids",
     "playlist": "https://tvpass.org/live/NickelodeonEast/hd"
   },
@@ -51,7 +51,7 @@
     "number": "256",
     "name": "Nicktoons",
     "code": "nicktoons",
-    "type": "video",
+    "type": "video-redirect",
     "category": "kids",
     "playlist": "https://tvpass.org/live/NicktoonsEast/hd"
   },
@@ -59,7 +59,7 @@
     "number": "257",
     "name": "TeenNick",
     "code": "TeenNickEast",
-    "type": "video",
+    "type": "video-redirect",
     "category": "kids",
     "playlist": "https://tvpass.org/live/TeenNickEast/hd"
   },

@@ -75,7 +75,7 @@
     "number": "309",
     "name": "FX Movies",
     "code": "fxm",
-    "type": "video",
+    "type": "video-redirect",
     "category": "movies",
     "playlist": "https://tvpass.org/live/FXMovieChannel/hd"
   },
@@ -91,7 +91,7 @@
     "number": "311",
     "name": "E!",
     "code": "EEast",
-    "type": "video",
+    "type": "video-redirect",
     "category": "movies",
     "playlist": "https://tvpass.org/live/EEast/hd"
   },
@@ -99,7 +99,7 @@
     "number": "312",
     "name": "TNT",
     "code": "TNTEast",
-    "type": "video",
+    "type": "video-redirect",
     "category": "movies",
     "playlist": "https://tvpass.org/live/TNTEast/hd"
   }

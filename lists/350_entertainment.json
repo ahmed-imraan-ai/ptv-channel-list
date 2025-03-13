@@ -3,7 +3,7 @@
     "number": "350",
     "name": "TBS",
     "code": "TBSEast",
-    "type": "video",
+    "type": "video-redirect",
     "category": "entertainment",
     "playlist": "https://tvpass.org/live/TBSEast/hd"
   },

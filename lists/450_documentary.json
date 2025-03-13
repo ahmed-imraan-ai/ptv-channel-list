@@ -19,7 +19,7 @@
     "number": "452",
     "name": "Discovery Channel",
     "code": "DiscoveryChannelEast",
-    "type": "video",
+    "type": "video-redirect",
     "category": "documentary",
     "playlist": "https://tvpass.org/live/DiscoveryChannelEast/hd"
   },
@@ -43,7 +43,7 @@
     "number": "455",
     "name": "Animal Planet",
     "code": "animal-planet",
-    "type": "video",
+    "type": "video-redirect",
     "category": "documentary",
     "playlist": "https://tvpass.org/live/AnimalPlanetEast/hd"
   },
@@ -51,7 +51,7 @@
     "number": "456",
     "name": "Discovery Life",
     "code": "DiscoveryLife",
-    "type": "video",
+    "type": "video-redirect",
     "category": "documentary",
     "playlist": "https://tvpass.org/live/DiscoveryLife/hd"
   },
@@ -59,7 +59,7 @@
     "number": "457",
     "name": "History Channel",
     "code": "HistoryChannel",
-    "type": "video",
+    "type": "video-redirect",
     "category": "documentary",
     "playlist": "https://tvpass.org/live/HistoryEast/hd"
   },

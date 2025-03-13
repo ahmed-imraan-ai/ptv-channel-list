@@ -19,7 +19,7 @@
     "number": "402",
     "name": "Food Network",
     "code": "FoodNetwork",
-    "type": "video",
+    "type": "video-redirect",
     "category": "entertainment",
     "playlist": "https://tvpass.org/live/FoodNetworkEast/hd"
   },
@@ -27,7 +27,7 @@
     "number": "403",
     "name": "The Cooking Channel",
     "code": "CookingChannel",
-    "type": "video",
+    "type": "video-redirect",
     "category": "entertainment",
     "playlist": "https://tvpass.org/live/CookingChannel/hd"
   },
@@ -35,7 +35,7 @@
     "number": "404",
     "name": "TLC",
     "code": "TLCEast",
-    "type": "video",
+    "type": "video-redirect",
     "category": "entertainment",
     "playlist": "https://tvpass.org/live/TLCEast/hd"
   }
