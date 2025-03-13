@@ -1,0 +1,34 @@
+[
+  {
+    "number": "550",
+    "name": "NHK General TV",
+    "code": "NHKGeneralTV",
+    "type": "video",
+    "category": "general",
+    "playlist": "http://vthanh.utako.moe/NHK_G/index.m3u8"
+  },
+  {
+    "number": "551",
+    "name": "At Home with Family Handyman",
+    "code": "at-home-w-familyhm",
+    "type": "video",
+    "category": "general",
+    "playlist": "https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8"
+  },
+  {
+    "number": "552",
+    "name": "BBC One",
+    "code": "bbc-1",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://x.canlitvapp.com/u-bbc-1/index.m3u8"
+  },
+  {
+    "number": "553",
+    "name": "BBC Two",
+    "code": "bbc-2",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://x.canlitvapp.com/u-bbc2/index.m3u8"
+  }
+]

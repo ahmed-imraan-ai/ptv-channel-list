@@ -1,0 +1,42 @@
+[
+  {
+    "number": "400",
+    "name": "Bon Appetit",
+    "code": "bonappetit",
+    "type": "video",
+    "category": "entertainment",
+    "playlist": "https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8"
+  },
+  {
+    "number": "401",
+    "name": "In The Kitchen",
+    "code": "in-the-kitchen",
+    "type": "video",
+    "category": "entertainment",
+    "playlist": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/medhigh.m3u8"
+  },
+  {
+    "number": "402",
+    "name": "Food Network",
+    "code": "FoodNetwork",
+    "type": "video",
+    "category": "entertainment",
+    "playlist": "https://tvpass.org/live/FoodNetworkEast/hd"
+  },
+  {
+    "number": "403",
+    "name": "The Cooking Channel",
+    "code": "CookingChannel",
+    "type": "video",
+    "category": "entertainment",
+    "playlist": "https://tvpass.org/live/CookingChannel/hd"
+  },
+  {
+    "number": "404",
+    "name": "TLC",
+    "code": "TLCEast",
+    "type": "video",
+    "category": "entertainment",
+    "playlist": "https://tvpass.org/live/TLCEast/hd"
+  }
+]

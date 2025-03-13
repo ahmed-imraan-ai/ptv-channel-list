@@ -1,0 +1,106 @@
+[
+  {
+    "number": "300",
+    "name": "MyTime Movie Network",
+    "code": "mytime-tcl",
+    "type": "video",
+    "category": "movies",
+    "playlist": "https://mytime-tcl.amagi.tv/playlist.m3u8"
+  },
+  {
+    "number": "301",
+    "name": "AXN",
+    "code": "axn",
+    "type": "video",
+    "category": "movies",
+    "playlist": "https://streamer1.nexgen.bz/AXN/index.m3u8"
+  },
+  {
+    "number": "302",
+    "name": "CBS Europa",
+    "code": "cbs-eu",
+    "type": "video",
+    "category": "movies",
+    "playlist": "http://195.189.60.33:9011/play/a005"
+  },
+  {
+    "number": "303",
+    "name": "FilmBox Extra HD",
+    "code": "filmbox-extra",
+    "type": "video",
+    "category": "movies",
+    "playlist": "http://178.219.128.68:64888/FILMEXTRHD"
+  },
+  {
+    "number": "304",
+    "name": "FilmBox Premium HD",
+    "code": "filmbox-premium",
+    "type": "video",
+    "category": "movies",
+    "playlist": "http://178.219.128.68:64888/FILMPREMHD"
+  },
+  {
+    "number": "305",
+    "name": "Grand Cinema",
+    "code": "grand-cinema",
+    "type": "video",
+    "category": "movies",
+    "playlist": "https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8"
+  },
+  {
+    "number": "306",
+    "name": "Comet",
+    "code": "comet",
+    "type": "video",
+    "category": "movies",
+    "playlist": "http://51.15.8.16:8081/lolind2/sonytvuk/playlist.m3u8"
+  },
+  {
+    "number": "307",
+    "name": "Freebie TV",
+    "code": "freebie-tv",
+    "type": "video",
+    "category": "movies",
+    "playlist": "https://d26pp4b7ojtlyn.cloudfront.net/scheduler/scheduleMaster/187.m3u8"
+  },
+  {
+    "number": "308",
+    "name": "30A Classic Movies",
+    "code": "30ATVClassicMovies.us",
+    "type": "video",
+    "category": "movies",
+    "playlist": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8"
+  },
+  {
+    "number": "309",
+    "name": "FX Movies",
+    "code": "fxm",
+    "type": "video",
+    "category": "movies",
+    "playlist": "https://tvpass.org/live/FXMovieChannel/hd"
+  },
+  {
+    "number": "310",
+    "name": "MBC Bollywood HD",
+    "code": "mbc",
+    "type": "video",
+    "category": "movies",
+    "playlist": "https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8"
+  },
+  {
+    "number": "311",
+    "name": "E!",
+    "code": "EEast",
+    "type": "video",
+    "category": "movies",
+    "playlist": "https://tvpass.org/live/EEast/hd"
+  },
+  {
+    "number": "312",
+    "name": "TNT",
+    "code": "TNTEast",
+    "type": "video",
+    "category": "movies",
+    "playlist": "https://tvpass.org/live/TNTEast/hd"
+  }
+]

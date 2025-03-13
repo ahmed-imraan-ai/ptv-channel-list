@@ -1,0 +1,23 @@
+[
+  {
+    "number": "901",
+    "name": "Dhivehi FM",
+    "code": "fmair",
+    "type": "audio",
+    "audio": "https://radio.psm.mv/fmair"
+  },
+  {
+    "number": "902",
+    "name": "Dhivehi Raajjeyge Adu",
+    "code": "draair",
+    "type": "audio",
+    "audio": "https://radio.psm.mv/draair"
+  },
+  {
+    "number": "903",
+    "name": "Dheenuge Adu",
+    "code": "dheenugeaduair",
+    "type": "audio",
+    "audio": "https://radio.psm.mv/dheenugeaduair"
+  }
+]

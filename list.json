@@ -1,6 +1,6 @@
 [
   {
-    "number": "101",
+    "number": "100",
     "name": "TVM",
     "code": "tvm",
     "type": "video",
@@ -8,7 +8,7 @@
     "playlist": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8"
   },
   {
-    "number": "102",
+    "number": "101",
     "name": "PSM News",
     "code": "psm-news",
     "type": "video",
@@ -16,7 +16,7 @@
     "playlist": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8"
   },
   {
-    "number": "103",
+    "number": "102",
     "name": "Maldives TV",
     "code": "mv-tv",
     "type": "video",
@@ -24,7 +24,7 @@
     "playlist": "https://live.maldivestv.mv/hls/stream/index.m3u8"
   },
   {
-    "number": "104",
+    "number": "103",
     "name": "Yes TV",
     "code": "yes-tv",
     "type": "video",
@@ -32,7 +32,7 @@
     "playlist": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8"
   },
   {
-    "number": "105",
+    "number": "104",
     "name": "VTV",
     "code": "vtv",
     "type": "video",
@@ -40,7 +40,7 @@
     "playlist": "https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8"
   },
   {
-    "number": "106",
+    "number": "105",
     "name": "SSTV",
     "code": "sstv",
     "type": "video",
@@ -48,7 +48,7 @@
     "playlist": "https://sstv.ssplay.mv/hls/sstv-live/index.m3u8"
   },
   {
-    "number": "107",
+    "number": "106",
     "name": "Raajje TV",
     "code": "raajje-tv",
     "type": "video",
@@ -56,7 +56,7 @@
     "playlist": "https://stream.raajje.mv/live/rtv_live/index.m3u8"
   },
   {
-    "number": "108",
+    "number": "107",
     "name": "Channel 13",
     "code": "channel13",
     "type": "video",
@@ -64,7 +64,7 @@
     "playlist": "https://stream.theyraonline.com/live/channel13@live/index.m3u8"
   },
   {
-    "number": "109",
+    "number": "108",
     "name": "Munnaaru",
     "code": "munnaaru-mv",
     "type": "video",
@@ -72,7 +72,7 @@
     "playlist": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8"
   },
   {
-    "number": "110",
+    "number": "109",
     "name": "MMTV",
     "code": "mmvt",
     "type": "video",
@@ -80,7 +80,7 @@
     "playlist": "https://sendlive.online/hls/mmtv.m3u8"
   },
   {
-    "number": "111",
+    "number": "110",
     "name": "Ocean TV Network",
     "code": "ocean-tv-network",
     "type": "video",
@@ -136,15 +136,7 @@
     "playlist": "https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8"
   },
   {
-    "number": "210",
-    "name": "NHK World",
-    "code": "nhkworld",
-    "type": "video",
-    "category": "news",
-    "playlist": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8"
-  },
-  {
-    "number": "211",
+    "number": "201",
     "name": "BBC News",
     "code": "bbc-news-uk",
     "type": "video",
@@ -152,23 +144,23 @@
     "playlist": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"
   },
   {
-    "number": "212",
-    "name": "BBC One",
-    "code": "bbc-1",
+    "number": "202",
+    "name": "CNN",
+    "code": "cnn",
     "type": "video",
     "category": "news",
-    "playlist": "https://x.canlitvapp.com/u-bbc-1/index.m3u8"
+    "playlist": "https://tvpass.org/live/CNN/hd"
   },
   {
-    "number": "213",
-    "name": "BBC Two",
-    "code": "bbc-2",
+    "number": "203",
+    "name": "NHK World",
+    "code": "nhkworld",
     "type": "video",
     "category": "news",
-    "playlist": "https://x.canlitvapp.com/u-bbc2/index.m3u8"
+    "playlist": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8"
   },
   {
-    "number": "215",
+    "number": "204",
     "name": "CGTN",
     "code": "cgtn",
     "type": "video",
@@ -176,7 +168,7 @@
     "playlist": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
   },
   {
-    "number": "217",
+    "number": "205",
     "name": "DW",
     "code": "dw-english",
     "type": "video",
@@ -184,7 +176,7 @@
     "playlist": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
   },
   {
-    "number": "218",
+    "number": "206",
     "name": "France 24",
     "code": "f24-english",
     "type": "video",
@@ -197,7 +189,7 @@
     "code": "NickJrPlutoTV",
     "type": "video",
     "category": "kids",
-    "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf"
+    "playlist": "http://fl2.moveonjoy.com/NICK_JR/index.m3u8"
   },
   {
     "number": "251",
@@ -209,6 +201,54 @@
   },
   {
     "number": "252",
+    "name": "Disney Channel",
+    "code": "DISNEY_CH",
+    "type": "video",
+    "category": "kids",
+    "playlist": "https://tvpass.org/live/DisneyChannelEast/hd"
+  },
+  {
+    "number": "253",
+    "name": "Disney XD",
+    "code": "DISNEY_XD",
+    "type": "video",
+    "category": "kids",
+    "playlist": "https://tvpass.org/live/DisneyXDEast/sd"
+  },
+  {
+    "number": "254",
+    "name": "Cartoon Network (USA East)",
+    "code": "CartoonNetworkEast",
+    "type": "video",
+    "category": "kids",
+    "playlist": "https://tvpass.org/live/CartoonNetworkEast/hd"
+  },
+  {
+    "number": "255",
+    "name": "Nickelodeon",
+    "code": "nickelodeon",
+    "type": "video",
+    "category": "kids",
+    "playlist": "https://tvpass.org/live/NickelodeonEast/hd"
+  },
+  {
+    "number": "256",
+    "name": "Nicktoons",
+    "code": "nicktoons",
+    "type": "video",
+    "category": "kids",
+    "playlist": "https://tvpass.org/live/NicktoonsEast/hd"
+  },
+  {
+    "number": "257",
+    "name": "TeenNick",
+    "code": "TeenNickEast",
+    "type": "video",
+    "category": "kids",
+    "playlist": "https://tvpass.org/live/TeenNickEast/hd"
+  },
+  {
+    "number": "260",
     "name": "Tiny Pop",
     "code": "tiny-pop-uk",
     "type": "video",
@@ -216,12 +256,20 @@
     "playlist": "https://jmp2.uk/sam-GBBD3200003T6.m3u8"
   },
   {
-    "number": "253",
+    "number": "261",
     "name": "BabyShark TV",
     "code": "babyshark-tv",
     "type": "video",
     "category": "kids",
     "playlist": "https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8"
+  },
+  {
+    "number": "262",
+    "name": "KBS Kids",
+    "code": "kbs-kids",
+    "type": "video-redirect",
+    "category": "movies",
+    "playlist": "http://mytv.dothome.co.kr/ch/catv/6.php"
   },
   {
     "number": "300",
@@ -272,7 +320,23 @@
     "playlist": "https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8"
   },
   {
-    "number": "311",
+    "number": "306",
+    "name": "Comet",
+    "code": "comet",
+    "type": "video",
+    "category": "movies",
+    "playlist": "http://51.15.8.16:8081/lolind2/sonytvuk/playlist.m3u8"
+  },
+  {
+    "number": "307",
+    "name": "Freebie TV",
+    "code": "freebie-tv",
+    "type": "video",
+    "category": "movies",
+    "playlist": "https://d26pp4b7ojtlyn.cloudfront.net/scheduler/scheduleMaster/187.m3u8"
+  },
+  {
+    "number": "308",
     "name": "30A Classic Movies",
     "code": "30ATVClassicMovies.us",
     "type": "video",
@@ -280,7 +344,7 @@
     "playlist": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8"
   },
   {
-    "number": "312",
+    "number": "309",
     "name": "FX Movies",
     "code": "fxm",
     "type": "video",
@@ -288,7 +352,7 @@
     "playlist": "https://tvpass.org/live/FXMovieChannel/hd"
   },
   {
-    "number": "313",
+    "number": "310",
     "name": "MBC Bollywood HD",
     "code": "mbc",
     "type": "video",
@@ -296,87 +360,71 @@
     "playlist": "https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8"
   },
   {
-    "number": "314",
-    "name": "Anime TV",
-    "code": "anime-tv",
+    "number": "311",
+    "name": "E!",
+    "code": "EEast",
     "type": "video",
     "category": "movies",
-    "playlist": "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8"
+    "playlist": "https://tvpass.org/live/EEast/hd"
   },
   {
-    "number": "315",
-    "name": "Anime All Day",
-    "code": "anime-all-day",
+    "number": "312",
+    "name": "TNT",
+    "code": "TNTEast",
     "type": "video",
     "category": "movies",
-    "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356"
-  },
-  {
-    "number": "316",
-    "name": "Anime Accion",
-    "code": "pluto-anime-accion",
-    "type": "video",
-    "category": "movies",
-    "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356"
-  },
-  {
-    "number": "317",
-    "name": "Animax",
-    "code": "animax",
-    "type": "video",
-    "category": "movies",
-    "playlist": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
-  },
-  {
-    "number": "330",
-    "name": "KBS 1",
-    "code": "kbs-1",
-    "type": "video-redirect",
-    "category": "movies",
-    "playlist": "http://mytv.dothome.co.kr/ch/public/1.php"
-  },
-  {
-    "number": "331",
-    "name": "KBS 2",
-    "code": "kbs-2",
-    "type": "video-redirect",
-    "category": "movies",
-    "playlist": "http://mytv.dothome.co.kr/ch/public/3.php"
-  },
-  {
-    "number": "332",
-    "name": "KBS Drama",
-    "code": "kbs-drama",
-    "type": "video-redirect",
-    "category": "movies",
-    "playlist": "http://mytv.dothome.co.kr/ch/catv/2.php"
-  },
-  {
-    "number": "333",
-    "name": "KBS Joy",
-    "code": "kbs-joy",
-    "type": "video-redirect",
-    "category": "movies",
-    "playlist": "http://mytv.dothome.co.kr/ch/catv/3.php"
-  },
-  {
-    "number": "334",
-    "name": "KBS Life",
-    "code": "kbs-life",
-    "type": "video-redirect",
-    "category": "movies",
-    "playlist": "http://mytv.dothome.co.kr/ch/catv/5.php"
-  },
-  {
-    "number": "335",
-    "name": "KBS Kids",
-    "code": "kbs-kids",
-    "type": "video-redirect",
-    "category": "movies",
-    "playlist": "http://mytv.dothome.co.kr/ch/catv/6.php"
+    "playlist": "https://tvpass.org/live/TNTEast/hd"
   },
   {
     "number": "350",
+    "name": "TBS",
+    "code": "TBSEast",
+    "type": "video",
+    "category": "entertainment",
+    "playlist": "https://tvpass.org/live/TBSEast/hd"
+  },
+  {
+    "number": "370",
+    "name": "KBS 1",
+    "code": "kbs-1",
+    "type": "video-redirect",
+    "category": "entertainment",
+    "playlist": "http://mytv.dothome.co.kr/ch/public/1.php"
+  },
+  {
+    "number": "371",
+    "name": "KBS 2",
+    "code": "kbs-2",
+    "type": "video-redirect",
+    "category": "entertainment",
+    "playlist": "http://mytv.dothome.co.kr/ch/public/3.php"
+  },
+  {
+    "number": "372",
+    "name": "KBS Drama",
+    "code": "kbs-drama",
+    "type": "video-redirect",
+    "category": "entertainment",
+    "playlist": "http://mytv.dothome.co.kr/ch/catv/2.php"
+  },
+  {
+    "number": "373",
+    "name": "KBS Joy",
+    "code": "kbs-joy",
+    "type": "video-redirect",
+    "category": "entertainment",
+    "playlist": "http://mytv.dothome.co.kr/ch/catv/3.php"
+  },
+  {
+    "number": "374",
+    "name": "KBS Life",
+    "code": "kbs-life",
+    "type": "video-redirect",
+    "category": "entertainment",
+    "playlist": "http://mytv.dothome.co.kr/ch/catv/5.php"
+  },
+  {
+    "number": "380",
     "name": "30A We Love Cars",
     "code": "30AWeLoveCars.us",
     "type": "video",
@@ -384,31 +432,55 @@
     "playlist": "https://30a-tv.com/feeds/vidaa/cars.m3u8"
   },
   {
-    "number": "351",
-    "name": "Comedy Central",
-    "code": "ComedyCentral",
+    "number": "381",
+    "name": "Latest TV",
+    "code": "latest-tv-uk",
     "type": "video",
     "category": "entertainment",
-    "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a408bd341e000818fcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b861-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc03faa5-401f-4a68-9972-153b1f336cac"
+    "playlist": "https://5a0e89631aa14.streamlock.net/LatestTelevision/LatestTelevision/playlist.m3u8"
   },
   {
-    "number": "352",
-    "name": "Comedy Central Stand-Up",
-    "code": "ComedyCentralStandUp",
+    "number": "390",
+    "name": "Animax",
+    "code": "animax",
     "type": "video",
-    "category": "entertainment",
-    "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a9ccd661bb00081bd93a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b863-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7fed5fcc-0dbc-42e9-8b2f-d5eb610c5074"
+    "category": "movies",
+    "playlist": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
   },
   {
-    "number": "353",
+    "number": "391",
+    "name": "Anime TV",
+    "code": "anime-tv",
+    "type": "video",
+    "category": "movies",
+    "playlist": "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8"
+  },
+  {
+    "number": "392",
+    "name": "Anime All Day",
+    "code": "anime-all-day",
+    "type": "video",
+    "category": "movies",
+    "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356"
+  },
+  {
+    "number": "393",
+    "name": "Anime Accion",
+    "code": "pluto-anime-accion",
+    "type": "video",
+    "category": "movies",
+    "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356"
+  },
+  {
+    "number": "400",
     "name": "Bon Appetit",
     "code": "bonappetit",
     "type": "video",
     "category": "entertainment",
-    "playlist": "https://bonappetit-samsung.amagi.tv/en-vtt/index.m3u8"
+    "playlist": "https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8"
   },
   {
-    "number": "355",
+    "number": "401",
     "name": "In The Kitchen",
     "code": "in-the-kitchen",
     "type": "video",
@@ -416,84 +488,300 @@
     "playlist": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/medhigh.m3u8"
   },
   {
-    "number": "400",
-    "name": "Cloudflare TV",
-    "code": "cloudflare-tv",
-    "type": "video",
-    "category": "other",
-    "playlist": "https://cloudflare.tv/hls/live.m3u8"
-  },
-  {
-    "number": "401",
-    "name": "Latest TV",
-    "code": "latest-tv-uk",
-    "type": "video",
-    "category": "other",
-    "playlist": "https://5a0e89631aa14.streamlock.net/LatestTelevision/LatestTelevision/playlist.m3u8"
-  },
-  {
     "number": "402",
-    "name": "NHK General TV",
-    "code": "NHKGeneralTV",
+    "name": "Food Network",
+    "code": "FoodNetwork",
     "type": "video",
-    "category": "other",
-    "playlist": "http://vthanh.utako.moe/NHK_G/index.m3u8"
+    "category": "entertainment",
+    "playlist": "https://tvpass.org/live/FoodNetworkEast/hd"
   },
   {
     "number": "403",
-    "name": "QVC Japan",
-    "code": "qvcjp",
+    "name": "The Cooking Channel",
+    "code": "CookingChannel",
     "type": "video",
-    "category": "other",
-    "playlist": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8"
+    "category": "entertainment",
+    "playlist": "https://tvpass.org/live/CookingChannel/hd"
+  },
+  {
+    "number": "404",
+    "name": "TLC",
+    "code": "TLCEast",
+    "type": "video",
+    "category": "entertainment",
+    "playlist": "https://tvpass.org/live/TLCEast/hd"
+  },
+  {
+    "number": "420",
+    "name": "Comedy Central",
+    "code": "ComedyCentral",
+    "type": "video",
+    "category": "comedy",
+    "playlist": "http://fl3.moveonjoy.com/Comedy_Central/index.m3u8"
+  },
+  {
+    "number": "421",
+    "name": "Comedy Central Stand-Up",
+    "code": "ComedyCentralStandUp",
+    "type": "video",
+    "category": "comedy",
+    "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a9ccd661bb00081bd93a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b863-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7fed5fcc-0dbc-42e9-8b2f-d5eb610c5074"
+  },
+  {
+    "number": "422",
+    "name": "Comedy Dynamics",
+    "code": "ComedyDynamics",
+    "type": "video",
+    "category": "comedy",
+    "playlist": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8"
   },
   {
     "number": "450",
     "name": "National Geographic",
     "code": "NationalGeographic",
     "type": "video",
-    "category": "documentry",
-    "playlist": "http://62.210.211.188:2095/play/a00d"
+    "category": "documentary",
+    "playlist": "http://fl2.moveonjoy.com/National_Geographic/index.m3u8"
   },
   {
     "number": "451",
     "name": "National Geographic Wild",
     "code": "NationalGeographicWild",
     "type": "video",
-    "category": "documentry",
-    "playlist": "http://109.233.89.166/National_Geographic_Wild_HD/index.m3u8"
+    "category": "documentary",
+    "playlist": "http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
   },
   {
     "number": "452",
-    "name": "Pluto TV Science",
-    "code": "PlutoTVScience",
+    "name": "Discovery Channel",
+    "code": "DiscoveryChannelEast",
     "type": "video",
-    "category": "documentry",
-    "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b61-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31adb772-adc8-4202-ad66-25e3c1a49df7"
+    "category": "documentary",
+    "playlist": "https://tvpass.org/live/DiscoveryChannelEast/hd"
   },
   {
     "number": "453",
-    "name": "AXS TV NOW",
-    "code": "AXSTVNOW",
-    "type": "video",
-    "category": "documentry",
-    "playlist": "https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8"
-  },
-  {
-    "number": "454",
-    "name": "CGTN Documentry",
+    "name": "CGTN Documentary",
     "code": "cgtn-documentary",
     "type": "video",
-    "category": "documentry",
+    "category": "documentary",
     "playlist": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8"
   },
   {
-    "number": "455",
-    "name": "RT Documentry",
+    "number": "454",
+    "name": "RT documentary",
     "code": "rt-documentary",
     "type": "video",
-    "category": "documentry",
-    "playlist": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8"
+    "category": "documentary",
+    "playlist": "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8"
+  },
+  {
+    "number": "455",
+    "name": "Animal Planet",
+    "code": "animal-planet",
+    "type": "video",
+    "category": "documentary",
+    "playlist": "https://tvpass.org/live/AnimalPlanetEast/hd"
+  },
+  {
+    "number": "456",
+    "name": "Discovery Life",
+    "code": "DiscoveryLife",
+    "type": "video",
+    "category": "documentary",
+    "playlist": "https://tvpass.org/live/DiscoveryLife/hd"
+  },
+  {
+    "number": "457",
+    "name": "History Channel",
+    "code": "HistoryChannel",
+    "type": "video",
+    "category": "documentary",
+    "playlist": "https://tvpass.org/live/HistoryEast/hd"
+  },
+  {
+    "number": "460",
+    "name": "Pluto TV Science",
+    "code": "PlutoTVScience",
+    "type": "video",
+    "category": "documentary",
+    "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b61-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31adb772-adc8-4202-ad66-25e3c1a49df7"
+  },
+  {
+    "number": "461",
+    "name": "AXS TV NOW",
+    "code": "AXSTVNOW",
+    "type": "video",
+    "category": "documentary",
+    "playlist": "https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8"
+  },
+  {
+    "number": "500",
+    "name": "ESPN",
+    "code": "ESPN",
+    "type": "video",
+    "category": "sports",
+    "playlist": "https://tvpass.org/live/ESPN/hd"
+  },
+  {
+    "number": "501",
+    "name": "ESPN 2",
+    "code": "ESPN2",
+    "type": "video",
+    "category": "sports",
+    "playlist": "https://tvpass.org/live/ESPN2/hd"
+  },
+  {
+    "number": "502",
+    "name": "ESPN U",
+    "code": "ESPNU",
+    "type": "video",
+    "category": "sports",
+    "playlist": "https://tvpass.org/live/ESPNU/hd"
+  },
+  {
+    "number": "503",
+    "name": "ESPN News",
+    "code": "ESPNNews",
+    "type": "video",
+    "category": "sports",
+    "playlist": "https://tvpass.org/live/ESPNews/hd"
+  },
+  {
+    "number": "504",
+    "name": "SEC Network",
+    "code": "SECN",
+    "type": "video",
+    "category": "sports",
+    "playlist": "https://tvpass.org/live/SECN/hd"
+  },
+  {
+    "number": "505",
+    "name": "CBS Sports Network USA",
+    "code": "cbs-sports-us",
+    "type": "video",
+    "category": "sports",
+    "playlist": "http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
+  },
+  {
+    "number": "506",
+    "name": "Fox Sports",
+    "code": "fox-sports",
+    "type": "video",
+    "category": "sports",
+    "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54"
+  },
+  {
+    "number": "507",
+    "name": "Fox Sports 1",
+    "code": "fox-sports1",
+    "type": "video",
+    "category": "sports",
+    "playlist": "http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8"
+  },
+  {
+    "number": "508",
+    "name": "Fox Sports 2",
+    "code": "fox-sports2",
+    "type": "video",
+    "category": "sports",
+    "playlist": "https://tvpass.org/live/FoxSports2/hd"
+  },
+  {
+    "number": "511",
+    "name": "NBA TV",
+    "code": "nbatv",
+    "type": "video",
+    "category": "sports",
+    "playlist": "https://tvpass.org/live/NBATV/hd"
+  },
+  {
+    "number": "512",
+    "name": "New England Sports Network HD",
+    "code": "new-england-sports-network",
+    "type": "video",
+    "category": "sports",
+    "playlist": "https://tvpass.org/live/new-england-sports-network/hd"
+  },
+  {
+    "number": "521",
+    "name": "TSN1",
+    "code": "TSN1",
+    "type": "video",
+    "category": "sports",
+    "playlist": "https://tvpass.org/live/tsn1/hd"
+  },
+  {
+    "number": "522",
+    "name": "TSN2",
+    "code": "TSN2",
+    "type": "video",
+    "category": "sports",
+    "playlist": "https://tvpass.org/live/tsn2/hd"
+  },
+  {
+    "number": "523",
+    "name": "TSN3",
+    "code": "TSN3",
+    "type": "video",
+    "category": "sports",
+    "playlist": "https://tvpass.org/live/tsn3/hd"
+  },
+  {
+    "number": "524",
+    "name": "TSN4",
+    "code": "TSN4",
+    "type": "video",
+    "category": "sports",
+    "playlist": "https://tvpass.org/live/tsn4/hd"
+  },
+  {
+    "number": "525",
+    "name": "TSN5",
+    "code": "TSN5",
+    "type": "video",
+    "category": "sports",
+    "playlist": "https://tvpass.org/live/tsn5/hd"
+  },
+  {
+    "number": "550",
+    "name": "NHK General TV",
+    "code": "NHKGeneralTV",
+    "type": "video",
+    "category": "general",
+    "playlist": "http://vthanh.utako.moe/NHK_G/index.m3u8"
+  },
+  {
+    "number": "551",
+    "name": "At Home with Family Handyman",
+    "code": "at-home-w-familyhm",
+    "type": "video",
+    "category": "general",
+    "playlist": "https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8"
+  },
+  {
+    "number": "552",
+    "name": "BBC One",
+    "code": "bbc-1",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://x.canlitvapp.com/u-bbc-1/index.m3u8"
+  },
+  {
+    "number": "553",
+    "name": "BBC Two",
+    "code": "bbc-2",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://x.canlitvapp.com/u-bbc2/index.m3u8"
+  },
+  {
+    "number": "890",
+    "name": "Cloudflare TV",
+    "code": "cloudflare-tv",
+    "type": "video",
+    "category": "other",
+    "playlist": "https://cloudflare.tv/hls/live.m3u8"
   },
   {
     "number": "901",

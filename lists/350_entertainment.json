@@ -1,0 +1,66 @@
+[
+  {
+    "number": "350",
+    "name": "TBS",
+    "code": "TBSEast",
+    "type": "video",
+    "category": "entertainment",
+    "playlist": "https://tvpass.org/live/TBSEast/hd"
+  },
+  {
+    "number": "370",
+    "name": "KBS 1",
+    "code": "kbs-1",
+    "type": "video-redirect",
+    "category": "entertainment",
+    "playlist": "http://mytv.dothome.co.kr/ch/public/1.php"
+  },
+  {
+    "number": "371",
+    "name": "KBS 2",
+    "code": "kbs-2",
+    "type": "video-redirect",
+    "category": "entertainment",
+    "playlist": "http://mytv.dothome.co.kr/ch/public/3.php"
+  },
+  {
+    "number": "372",
+    "name": "KBS Drama",
+    "code": "kbs-drama",
+    "type": "video-redirect",
+    "category": "entertainment",
+    "playlist": "http://mytv.dothome.co.kr/ch/catv/2.php"
+  },
+  {
+    "number": "373",
+    "name": "KBS Joy",
+    "code": "kbs-joy",
+    "type": "video-redirect",
+    "category": "entertainment",
+    "playlist": "http://mytv.dothome.co.kr/ch/catv/3.php"
+  },
+  {
+    "number": "374",
+    "name": "KBS Life",
+    "code": "kbs-life",
+    "type": "video-redirect",
+    "category": "entertainment",
+    "playlist": "http://mytv.dothome.co.kr/ch/catv/5.php"
+  },
+  {
+    "number": "380",
+    "name": "30A We Love Cars",
+    "code": "30AWeLoveCars.us",
+    "type": "video",
+    "category": "entertainment",
+    "playlist": "https://30a-tv.com/feeds/vidaa/cars.m3u8"
+  },
+  {
+    "number": "381",
+    "name": "Latest TV",
+    "code": "latest-tv-uk",
+    "type": "video",
+    "category": "entertainment",
+    "playlist": "https://5a0e89631aa14.streamlock.net/LatestTelevision/LatestTelevision/playlist.m3u8"
+  }
+]

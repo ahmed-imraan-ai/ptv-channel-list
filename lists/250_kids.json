@@ -1,0 +1,90 @@
+[
+  {
+    "number": "250",
+    "name": "Nick Jr",
+    "code": "NickJrPlutoTV",
+    "type": "video",
+    "category": "kids",
+    "playlist": "http://fl2.moveonjoy.com/NICK_JR/index.m3u8"
+  },
+  {
+    "number": "251",
+    "name": "Disney Jr",
+    "code": "DISNEY_JR",
+    "type": "video",
+    "category": "kids",
+    "playlist": "http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8"
+  },
+  {
+    "number": "252",
+    "name": "Disney Channel",
+    "code": "DISNEY_CH",
+    "type": "video",
+    "category": "kids",
+    "playlist": "https://tvpass.org/live/DisneyChannelEast/hd"
+  },
+  {
+    "number": "253",
+    "name": "Disney XD",
+    "code": "DISNEY_XD",
+    "type": "video",
+    "category": "kids",
+    "playlist": "https://tvpass.org/live/DisneyXDEast/sd"
+  },
+  {
+    "number": "254",
+    "name": "Cartoon Network (USA East)",
+    "code": "CartoonNetworkEast",
+    "type": "video",
+    "category": "kids",
+    "playlist": "https://tvpass.org/live/CartoonNetworkEast/hd"
+  },
+  {
+    "number": "255",
+    "name": "Nickelodeon",
+    "code": "nickelodeon",
+    "type": "video",
+    "category": "kids",
+    "playlist": "https://tvpass.org/live/NickelodeonEast/hd"
+  },
+  {
+    "number": "256",
+    "name": "Nicktoons",
+    "code": "nicktoons",
+    "type": "video",
+    "category": "kids",
+    "playlist": "https://tvpass.org/live/NicktoonsEast/hd"
+  },
+  {
+    "number": "257",
+    "name": "TeenNick",
+    "code": "TeenNickEast",
+    "type": "video",
+    "category": "kids",
+    "playlist": "https://tvpass.org/live/TeenNickEast/hd"
+  },
+  {
+    "number": "260",
+    "name": "Tiny Pop",
+    "code": "tiny-pop-uk",
+    "type": "video",
+    "category": "kids",
+    "playlist": "https://jmp2.uk/sam-GBBD3200003T6.m3u8"
+  },
+  {
+    "number": "261",
+    "name": "BabyShark TV",
+    "code": "babyshark-tv",
+    "type": "video",
+    "category": "kids",
+    "playlist": "https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8"
+  },
+  {
+    "number": "262",
+    "name": "KBS Kids",
+    "code": "kbs-kids",
+    "type": "video-redirect",
+    "category": "movies",
+    "playlist": "http://mytv.dothome.co.kr/ch/catv/6.php"
+  }
+]

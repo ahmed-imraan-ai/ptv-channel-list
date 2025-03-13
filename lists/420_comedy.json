@@ -1,0 +1,26 @@
+[
+  {
+    "number": "420",
+    "name": "Comedy Central",
+    "code": "ComedyCentral",
+    "type": "video",
+    "category": "comedy",
+    "playlist": "http://fl3.moveonjoy.com/Comedy_Central/index.m3u8"
+  },
+  {
+    "number": "421",
+    "name": "Comedy Central Stand-Up",
+    "code": "ComedyCentralStandUp",
+    "type": "video",
+    "category": "comedy",
+    "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a9ccd661bb00081bd93a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b863-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7fed5fcc-0dbc-42e9-8b2f-d5eb610c5074"
+  },
+  {
+    "number": "422",
+    "name": "Comedy Dynamics",
+    "code": "ComedyDynamics",
+    "type": "video",
+    "category": "comedy",
+    "playlist": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8"
+  }
+]

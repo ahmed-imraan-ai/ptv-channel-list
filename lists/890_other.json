@@ -1,0 +1,10 @@
+[
+  {
+    "number": "890",
+    "name": "Cloudflare TV",
+    "code": "cloudflare-tv",
+    "type": "video",
+    "category": "other",
+    "playlist": "https://cloudflare.tv/hls/live.m3u8"
+  }
+]

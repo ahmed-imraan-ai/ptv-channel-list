@@ -1,0 +1,42 @@
+[
+  {
+    "number": "150",
+    "name": "MakkahTV",
+    "code": "makkah-tv",
+    "type": "video",
+    "category": "islamic",
+    "playlist": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8"
+  },
+  {
+    "number": "151",
+    "name": "Al Quran Al Kareem TV",
+    "code": "AlQuranAlKareemTV",
+    "type": "video",
+    "category": "quran",
+    "playlist": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8"
+  },
+  {
+    "number": "152",
+    "name": "Al Sunnah Al Nabawiyah TV",
+    "code": "AlSunnahAlNabawiyahTV",
+    "type": "video",
+    "category": "islamic",
+    "playlist": "https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8"
+  },
+  {
+    "number": "153",
+    "name": "Noor Dubai",
+    "code": "NoorDubai",
+    "type": "video",
+    "category": "islamic",
+    "playlist": "https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8"
+  },
+  {
+    "number": "154",
+    "name": "Peace TV",
+    "code": "PeaceTV",
+    "type": "video",
+    "category": "islamic",
+    "playlist": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
+  }
+]

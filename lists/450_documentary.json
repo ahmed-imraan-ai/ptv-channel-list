@@ -1,0 +1,82 @@
+[
+  {
+    "number": "450",
+    "name": "National Geographic",
+    "code": "NationalGeographic",
+    "type": "video",
+    "category": "documentary",
+    "playlist": "http://fl2.moveonjoy.com/National_Geographic/index.m3u8"
+  },
+  {
+    "number": "451",
+    "name": "National Geographic Wild",
+    "code": "NationalGeographicWild",
+    "type": "video",
+    "category": "documentary",
+    "playlist": "http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
+  },
+  {
+    "number": "452",
+    "name": "Discovery Channel",
+    "code": "DiscoveryChannelEast",
+    "type": "video",
+    "category": "documentary",
+    "playlist": "https://tvpass.org/live/DiscoveryChannelEast/hd"
+  },
+  {
+    "number": "453",
+    "name": "CGTN Documentary",
+    "code": "cgtn-documentary",
+    "type": "video",
+    "category": "documentary",
+    "playlist": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8"
+  },
+  {
+    "number": "454",
+    "name": "RT documentary",
+    "code": "rt-documentary",
+    "type": "video",
+    "category": "documentary",
+    "playlist": "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8"
+  },
+  {
+    "number": "455",
+    "name": "Animal Planet",
+    "code": "animal-planet",
+    "type": "video",
+    "category": "documentary",
+    "playlist": "https://tvpass.org/live/AnimalPlanetEast/hd"
+  },
+  {
+    "number": "456",
+    "name": "Discovery Life",
+    "code": "DiscoveryLife",
+    "type": "video",
+    "category": "documentary",
+    "playlist": "https://tvpass.org/live/DiscoveryLife/hd"
+  },
+  {
+    "number": "457",
+    "name": "History Channel",
+    "code": "HistoryChannel",
+    "type": "video",
+    "category": "documentary",
+    "playlist": "https://tvpass.org/live/HistoryEast/hd"
+  },
+  {
+    "number": "460",
+    "name": "Pluto TV Science",
+    "code": "PlutoTVScience",
+    "type": "video",
+    "category": "documentary",
+    "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b61-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31adb772-adc8-4202-ad66-25e3c1a49df7"
+  },
+  {
+    "number": "461",
+    "name": "AXS TV NOW",
+    "code": "AXSTVNOW",
+    "type": "video",
+    "category": "documentary",
+    "playlist": "https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8"
+  }
+]

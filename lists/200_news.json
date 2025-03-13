@@ -1,0 +1,58 @@
+[
+  {
+    "number": "200",
+    "name": "Al Jazeera",
+    "code": "al-jazeera-english",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8"
+  },
+  {
+    "number": "201",
+    "name": "BBC News",
+    "code": "bbc-news-uk",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"
+  },
+  {
+    "number": "202",
+    "name": "CNN",
+    "code": "cnn",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://tvpass.org/live/CNN/hd"
+  },
+  {
+    "number": "203",
+    "name": "NHK World",
+    "code": "nhkworld",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8"
+  },
+  {
+    "number": "204",
+    "name": "CGTN",
+    "code": "cgtn",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
+  },
+  {
+    "number": "205",
+    "name": "DW",
+    "code": "dw-english",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+  },
+  {
+    "number": "206",
+    "name": "France 24",
+    "code": "f24-english",
+    "type": "video",
+    "category": "news",
+    "playlist": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8"
+  }
+]

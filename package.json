@@ -1,0 +1,12 @@
+{
+  "name": "pvt-playlist",
+  "version": "0.0.1",
+  "description": "IPTV Channel list",
+  "main": "generate.js",
+  "repository": "git@github.com:ahmed-imraan-ai/ptv-channel-list.git",
+  "author": "Ahmed Imraan <ahmed.imraan.ai@live.com>",
+  "license": "MIT",
+  "scripts": {
+    "generate": "node ./scripts/generate.js"
+  }
+}
