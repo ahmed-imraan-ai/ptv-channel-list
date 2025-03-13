@@ -207,7 +207,14 @@
     "category": "kids",
     "playlist": "https://tvpass.org/live/DisneyChannelEast/hd"
   },
-
+  {
+    "number": "253",
+    "name": "Disney XD",
+    "code": "DISNEY_XD",
+    "type": "video-redirect",
+    "category": "kids",
+    "playlist": "https://tvpass.org/live/DisneyXDEast/hd"
+  },
   {
     "number": "254",
     "name": "Cartoon Network",
