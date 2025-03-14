@@ -226,18 +226,10 @@
   {
     "number": "255",
     "name": "Cartoon Network",
-    "code": "CartoonNetworkEast",
-    "type": "video-redirect",
+    "code": "CartoonNetwork",
+    "type": "video",
     "category": "kids",
-    "playlist": "https://tvpass.org/live/CartoonNetworkEast/sd"
-  },
-  {
-    "number": "256",
-    "name": "Cartoon Network HD",
-    "code": "CartoonNetworkEast",
-    "type": "video-redirect",
-    "category": "kids",
-    "playlist": "https://tvpass.org/live/CartoonNetworkEast/hd"
+    "playlist": "https://cdn2.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8"
   },
   {
     "number": "257",
