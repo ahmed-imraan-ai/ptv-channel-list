@@ -48,6 +48,14 @@
     "playlist": "http://mytv.dothome.co.kr/ch/catv/5.php"
   },
   {
+    "number": "375",
+    "name": "Star TV (MN)",
+    "code": "star.mg",
+    "type": "video",
+    "category": "entertainment",
+    "playlist":"https://cdn2.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd"
+  },
+  {
     "number": "380",
     "name": "30A We Love Cars",
     "code": "30AWeLoveCars.us",
