@@ -113,6 +113,14 @@
   },
   {
     "number": "265",
+    "name": "Moonbug Kids",
+    "code": "moobnug-kids",
+    "type": "video",
+    "category": "kids",
+    "playlist": "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
+  },
+  {
+    "number": "270",
     "name": "KBS Kids",
     "code": "kbs-kids",
     "type": "video-redirect",
