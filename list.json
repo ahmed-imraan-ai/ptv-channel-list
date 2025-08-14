@@ -5,7 +5,7 @@
     "code": "tvm",
     "type": "video",
     "category": "local",
-    "playlist": "https://customer-y2yhzwk77gwatbip.cloudflarestream.com/a48b16941662a8bd6eca86ceece4ce26/manifest/video.m3u8"
+    "playlist": "https://maldivesn.net/hilaytv/tvm"
   },
   {
     "number": "101",
@@ -13,15 +13,16 @@
     "code": "psm-news",
     "type": "video",
     "category": "local",
-    "playlist": "https://customer-y2yhzwk77gwatbip.cloudflarestream.com/663855cfeb35fb21c9d1f426847f5135/manifest/video.m3u8"
+    "playlist": "https://maldivesn.net/hilaytv/psmnews"
   },
   {
     "number": "102",
-    "name": "Maldives TV",
-    "code": "mv-tv",
+    "name": "Mendhuru TV",
+    "code": "mendhurutv",
     "type": "video",
     "category": "local",
-    "playlist": "https://customer-y2yhzwk77gwatbip.cloudflarestream.com/37ef4cc40b684618c52ee37448b3cbac/manifest/video.m3u8"
+    "playlist": "https://maldivesn.net/hilaytv/mendhurutv",
+    "disabled": true
   },
   {
     "number": "103",
@@ -29,7 +30,7 @@
     "code": "yes-tv",
     "type": "video",
     "category": "local",
-    "playlist": "https://customer-y2yhzwk77gwatbip.cloudflarestream.com/bc11f97b8732eccde8c8a8aef3207ca2/manifest/video.m3u8"
+    "playlist": "https://maldivesn.net/hilaytv/yeshilay"
   },
   {
     "number": "104",
@@ -61,18 +62,10 @@
     "code": "channel13",
     "type": "video",
     "category": "local",
-    "playlist": "https://stream.theyraonline.com/live/channel13@live/index.m3u8"
+    "playlist": "https://maldivesn.net/hilaytv/channel13"
   },
   {
     "number": "108",
-    "name": "Munnaaru",
-    "code": "munnaaru-mv",
-    "type": "video",
-    "category": "local",
-    "playlist": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8"
-  },
-  {
-    "number": "109",
     "name": "MMTV",
     "code": "mmvt",
     "type": "video",
@@ -80,12 +73,28 @@
     "playlist": "https://sendlive.online/hls/mmtv.m3u8"
   },
   {
-    "number": "110",
-    "name": "Ocean TV Network",
-    "code": "ocean-tv-network",
+    "number": "109",
+    "name": "SanguTV",
+    "code": "sangutv",
     "type": "video",
     "category": "local",
-    "playlist": "https://egress-stkplz7mbu4ftbof3zr94.live.streamer.wpstream.net/ev_wps_52076_oceant53da84_221_1717304220/hls/5yjq1wbd06ffe4t4.m3u8"
+    "playlist": "https://maldivesn.net/hilaytv/sangutv"
+  },
+  {
+    "number": "130",
+    "name": "Munnaaru",
+    "code": "munnaaru-mv",
+    "type": "video",
+    "category": "local",
+    "playlist": "https://maldivesn.net/hilaytv/munnaaruhilay"
+  },
+  {
+    "number": "131",
+    "name": "Dhaaris TV",
+    "code": "dhaaris",
+    "type": "video",
+    "category": "local",
+    "playlist": "https://maldivesn.net/hilaytv/dhaaris"
   },
   {
     "number": "150",
