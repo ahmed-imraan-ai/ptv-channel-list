@@ -87,5 +87,13 @@
     "type": "video",
     "category": "local",
     "playlist": "https://www.youtube.com/@dhaaristv/live"
+  },
+  {
+    "number": "140",
+    "name": "TVM 2",
+    "code": "tvm",
+    "type": "video",
+    "category": "local",
+    "playlist": "https://maldivesn.net/hilaytv/tvm"
   }
 ]

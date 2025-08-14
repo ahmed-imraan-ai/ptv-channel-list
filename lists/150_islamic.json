@@ -13,7 +13,7 @@
     "code": "AlQuranAlKareemTV",
     "type": "video",
     "category": "quran",
-    "playlist": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8"
+    "playlist": "http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8"
   },
   {
     "number": "152",
@@ -21,7 +21,8 @@
     "code": "AlSunnahAlNabawiyahTV",
     "type": "video",
     "category": "islamic",
-    "playlist": "https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8"
+    "playlist": "https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8",
+    "disabled": true
   },
   {
     "number": "153",
@@ -29,7 +30,8 @@
     "code": "NoorDubai",
     "type": "video",
     "category": "islamic",
-    "playlist": "https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8"
+    "playlist": "https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8",
+    "disabled": true
   },
   {
     "number": "154",
