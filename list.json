@@ -3,9 +3,9 @@
     "number": "100",
     "name": "TVM",
     "code": "tvm",
-    "type": "video",
+    "type": "video-redirect",
     "category": "local",
-    "playlist": "https://customer-y2yhzwk77gwatbip.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjIwMjZlOWY0ZTU2NDFkODI1Njk0MGE2ZDUzNmU3OTczIn0.eyJzdWIiOiJhNDhiMTY5NDE2NjJhOGJkNmVjYTg2Y2VlY2U0Y2UyNiIsImtpZCI6IjIwMjZlOWY0ZTU2NDFkODI1Njk0MGE2ZDUzNmU3OTczIiwiZXhwIjoiMTc1NTE5NDQwMCIsIm5iZiI6IjE3NTUxNDc2MDIifQ.V9fC0V3AwWTbekvqHRVdR_7T1xzHXH3R4IZRDY8-lpXAbQjUlBUrnt81l617DMaIZVz6BVCsDGuUoxJVEXEM7D8ZmvR_rBVfdcyG1E_oS6OBikaDKM9TutnkMKJ-URATCpzp-y_gjXC9FF_hbwupYLngYo1BxheUCQ8JH8bLPBuO5VUi4qeYTZi5bSLYG9-G1Gmx7ecM-Cs2rOOPGYMmPwhRGYgiffbqkeR27aP7kRLL4RgrxCLQ7gT_vM3o-6d7m-otxygMRpZd_g1N4gFFn6EXf56qX2qlGUX25O_oJ1CMuI7Ki-cPE7hI3_f0J-9NkahKMMy-yMawx9H_MzawGQ/manifest/video.m3u8"
+    "playlist": "https://maldivesn.net/hilaytv/tvm"
   },
   {
     "number": "101",
@@ -14,15 +14,6 @@
     "type": "video",
     "category": "local",
     "playlist": "http://s5.alltvfree.com:8081/live/psmnews/playlist.m3u8"
-  },
-  {
-    "number": "102",
-    "name": "Mendhuru TV",
-    "code": "mendhurutv",
-    "type": "video",
-    "category": "local",
-    "playlist": "http://s5.alltvfree.com:8081/live/menduru/playlist.m3u8",
-    "disabled": true
   },
   {
     "number": "103",
@@ -81,22 +72,6 @@
     "playlist": "http://s5.alltvfree.com:8081/live/munnaaru1/playlist.m3u8"
   },
   {
-    "number": "131",
-    "name": "Dhaaris TV",
-    "code": "dhaaris",
-    "type": "video",
-    "category": "local",
-    "playlist": "https://www.youtube.com/@dhaaristv/live"
-  },
-  {
-    "number": "140",
-    "name": "TVM 2",
-    "code": "tvm",
-    "type": "video-redirect",
-    "category": "local",
-    "playlist": "https://maldivesn.net/hilaytv/tvm"
-  },
-  {
     "number": "150",
     "name": "MakkahTV",
     "code": "makkah-tv",
@@ -108,27 +83,9 @@
     "number": "151",
     "name": "Al Quran Al Kareem TV",
     "code": "AlQuranAlKareemTV",
-    "type": "video",
+    "type": "video-redirect",
     "category": "quran",
-    "playlist": "http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8"
-  },
-  {
-    "number": "152",
-    "name": "Al Sunnah Al Nabawiyah TV",
-    "code": "AlSunnahAlNabawiyahTV",
-    "type": "video",
-    "category": "islamic",
-    "playlist": "https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8",
-    "disabled": true
-  },
-  {
-    "number": "153",
-    "name": "Noor Dubai",
-    "code": "NoorDubai",
-    "type": "video",
-    "category": "islamic",
-    "playlist": "https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8",
-    "disabled": true
+    "playlist": "https://maldivesn.net/hilaytv/quruantv"
   },
   {
     "number": "154",
@@ -150,9 +107,9 @@
     "number": "201",
     "name": "BBC News",
     "code": "bbc-news-uk",
-    "type": "video",
+    "type": "video-redirect",
     "category": "news",
-    "playlist": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"
+    "playlist": "https://maldivesn.net/hilaytv/bbcuk"
   },
   {
     "number": "202",
@@ -160,7 +117,7 @@
     "code": "cnn",
     "type": "video-redirect",
     "category": "news",
-    "playlist": "https://tvpass.org/live/CNN/hd"
+    "playlist": "https://maldivesn.net/hilaytv/cnninternational"
   },
   {
     "number": "203",
@@ -198,49 +155,41 @@
     "number": "250",
     "name": "Nick Jr",
     "code": "NickJrPlutoTV",
-    "type": "video",
+    "type": "video-redirect",
     "category": "kids",
-    "playlist": "http://fl2.moveonjoy.com/NICK_JR/index.m3u8"
+    "playlist": "https://maldivesn.net/hilaytv/nickjr"
   },
   {
     "number": "251",
     "name": "Disney Jr",
     "code": "DISNEY_JR",
-    "type": "video",
+    "type": "video-redirect",
     "category": "kids",
-    "playlist": "http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8"
+    "playlist": "https://maldivesn.net/hilaytv/disneyjr"
   },
   {
     "number": "252",
-    "name": "Disney Channel SD",
+    "name": "Disney Channel",
     "code": "DISNEY_CH",
     "type": "video-redirect",
     "category": "kids",
-    "playlist": "https://tvpass.org/live/DisneyChannelEast/sd"
+    "playlist": "https://maldivesn.net/hilaytv/disneychannel"
   },
   {
     "number": "253",
-    "name": "Disney Channel HD",
-    "code": "DISNEY_CH",
-    "type": "video-redirect",
-    "category": "kids",
-    "playlist": "https://tvpass.org/live/DisneyChannelEast/hd"
-  },
-  {
-    "number": "254",
-    "name": "Disney XD HD",
+    "name": "Disney XD",
     "code": "DISNEY_XD",
     "type": "video-redirect",
     "category": "kids",
-    "playlist": "https://tvpass.org/live/DisneyXDEast/hd"
+    "playlist": "https://maldivesn.net/hilaytv/disneyxd"
   },
   {
     "number": "255",
     "name": "Cartoon Network",
     "code": "CartoonNetwork",
-    "type": "video",
+    "type": "video-redirect",
     "category": "kids",
-    "playlist": "https://cdn2.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8"
+    "playlist": "https://maldivesn.net/hilaytv/cartoonnetwork"
   },
   {
     "number": "257",
@@ -248,15 +197,7 @@
     "code": "nickelodeon",
     "type": "video-redirect",
     "category": "kids",
-    "playlist": "https://tvpass.org/live/NickelodeonEast/sd"
-  },
-  {
-    "number": "258",
-    "name": "Nickelodeon HD",
-    "code": "nickelodeon",
-    "type": "video-redirect",
-    "category": "kids",
-    "playlist": "https://tvpass.org/live/NickelodeonEast/hd"
+    "playlist": "https://maldivesn.net/hilaytv/nickelodeon"
   },
   {
     "number": "259",
@@ -264,31 +205,7 @@
     "code": "nicktoons",
     "type": "video-redirect",
     "category": "kids",
-    "playlist": "https://tvpass.org/live/NicktoonsEast/sd"
-  },
-  {
-    "number": "260",
-    "name": "Nicktoons HD",
-    "code": "nicktoons",
-    "type": "video-redirect",
-    "category": "kids",
-    "playlist": "https://tvpass.org/live/NicktoonsEast/hd"
-  },
-  {
-    "number": "261",
-    "name": "TeenNick",
-    "code": "TeenNickEast",
-    "type": "video-redirect",
-    "category": "kids",
-    "playlist": "https://tvpass.org/live/TeenNickEast/sd"
-  },
-  {
-    "number": "262",
-    "name": "TeenNick HD",
-    "code": "TeenNickEast",
-    "type": "video-redirect",
-    "category": "kids",
-    "playlist": "https://tvpass.org/live/TeenNickEast/hd"
+    "playlist": "https://maldivesn.net/hilaytv/nicktoons"
   },
   {
     "number": "263",
@@ -460,6 +377,46 @@
   },
   {
     "number": "350",
+    "name": "Sony MAX HD",
+    "code": "sonysatmax",
+    "type": "video-redirect",
+    "category": "entertainment",
+    "playlist": "https://maldivesn.net/hilaytv/sonysatmax"
+  },
+  {
+    "number": "351",
+    "name": "Sony Kal US - HD",
+    "code": "sonysatkal",
+    "type": "video-redirect",
+    "category": "entertainment",
+    "playlist": "https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8"
+  },
+  {
+    "number": "352",
+    "name": "Star Plus HD",
+    "code": "starplus",
+    "type": "video-redirect",
+    "category": "entertainment",
+    "playlist": "https://maldivesn.net/hilaytv/starplus"
+  },
+  {
+    "number": "353",
+    "name": "Star Bharat HD",
+    "code": "starbharat",
+    "type": "video-redirect",
+    "category": "entertainment",
+    "playlist": "https://maldivesn.net/hilaytv/starbharat"
+  },
+  {
+    "number": "354",
+    "name": "Star Gold HD",
+    "code": "stargold",
+    "type": "video-redirect",
+    "category": "entertainment",
+    "playlist": "https://maldivesn.net/hilaytv/stargold"
+  },
+  {
+    "number": "369",
     "name": "TBS",
     "code": "TBSEast",
     "type": "video-redirect",
@@ -552,7 +509,7 @@
     "code": "FoodNetwork",
     "type": "video-redirect",
     "category": "entertainment",
-    "playlist": "https://tvpass.org/live/FoodNetworkEast/hd"
+    "playlist": "https://maldivesn.net/hilaytv/foodnetwork"
   },
   {
     "number": "403",
@@ -560,7 +517,7 @@
     "code": "CookingChannel",
     "type": "video-redirect",
     "category": "entertainment",
-    "playlist": "https://tvpass.org/live/CookingChannel/hd"
+    "playlist": "https://maldivesn.net/hilaytv/cookingch"
   },
   {
     "number": "404",
@@ -568,7 +525,7 @@
     "code": "TLCEast",
     "type": "video-redirect",
     "category": "entertainment",
-    "playlist": "https://tvpass.org/live/TLCEast/hd"
+    "playlist": "https://maldivesn.net/hilaytv/tlc"
   },
   {
     "number": "420",
@@ -680,7 +637,7 @@
     "code": "ESPN",
     "type": "video-redirect",
     "category": "sports",
-    "playlist": "https://tvpass.org/live/ESPN/hd"
+    "playlist": "https://maldivesn.net/hilaytv/espn"
   },
   {
     "number": "501",
@@ -688,7 +645,7 @@
     "code": "ESPN2",
     "type": "video-redirect",
     "category": "sports",
-    "playlist": "https://tvpass.org/live/ESPN2/hd"
+    "playlist": "https://maldivesn.net/hilaytv/espn2"
   },
   {
     "number": "502",
@@ -696,7 +653,7 @@
     "code": "ESPNU",
     "type": "video-redirect",
     "category": "sports",
-    "playlist": "https://tvpass.org/live/ESPNU/hd"
+    "playlist": "https://maldivesn.net/hilaytv/espnu"
   },
   {
     "number": "503",
@@ -704,26 +661,34 @@
     "code": "ESPNNews",
     "type": "video-redirect",
     "category": "sports",
-    "playlist": "https://tvpass.org/live/ESPNews/hd"
+    "playlist": "https://maldivesn.net/hilaytv/espnnews"
   },
   {
     "number": "504",
-    "name": "SEC Network",
-    "code": "SECN",
+    "name": "Sony Sports Ten 1 HD",
+    "code": "sonyten1",
     "type": "video-redirect",
     "category": "sports",
-    "playlist": "https://tvpass.org/live/SECN/hd"
+    "playlist": "https://maldivesn.net/hilaytv/sonyten1"
   },
   {
     "number": "505",
-    "name": "CBS Sports Network USA",
-    "code": "cbs-sports-us",
-    "type": "video",
+    "name": "Sony Sports Ten 2 HD",
+    "code": "sonyten1",
+    "type": "video-redirect",
     "category": "sports",
-    "playlist": "http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
+    "playlist": "https://maldivesn.net/hilaytv/sonyten2"
   },
   {
     "number": "506",
+    "name": "Sony Sports Ten 5 HD",
+    "code": "sonyten1",
+    "type": "video-redirect",
+    "category": "sports",
+    "playlist": "https://maldivesn.net/hilaytv/sonyten5"
+  },
+  {
+    "number": "508",
     "name": "Fox Sports",
     "code": "fox-sports",
     "type": "video",
@@ -731,7 +696,7 @@
     "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54"
   },
   {
-    "number": "507",
+    "number": "509",
     "name": "Fox Sports 1",
     "code": "fox-sports1",
     "type": "video",
@@ -739,7 +704,7 @@
     "playlist": "http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8"
   },
   {
-    "number": "508",
+    "number": "510",
     "name": "Fox Sports 2",
     "code": "fox-sports2",
     "type": "video-redirect",

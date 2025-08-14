@@ -106,7 +106,9 @@ function checkForDuplicateNumber(data) {
 }
 (async () => {
   try {
-    const mergedData = await mergeData();
+    const mergedData = (await mergeData()).filter(
+      (item) => item.disabled != true
+    );
 
     // Validate the format of the items
     const validation = validateItemFormat(mergedData);

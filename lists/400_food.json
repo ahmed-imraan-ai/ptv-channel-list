@@ -21,7 +21,7 @@
     "code": "FoodNetwork",
     "type": "video-redirect",
     "category": "entertainment",
-    "playlist": "https://tvpass.org/live/FoodNetworkEast/hd"
+    "playlist": "https://maldivesn.net/hilaytv/foodnetwork"
   },
   {
     "number": "403",
@@ -29,7 +29,7 @@
     "code": "CookingChannel",
     "type": "video-redirect",
     "category": "entertainment",
-    "playlist": "https://tvpass.org/live/CookingChannel/hd"
+    "playlist": "https://maldivesn.net/hilaytv/cookingch"
   },
   {
     "number": "404",
@@ -37,6 +37,6 @@
     "code": "TLCEast",
     "type": "video-redirect",
     "category": "entertainment",
-    "playlist": "https://tvpass.org/live/TLCEast/hd"
+    "playlist": "https://maldivesn.net/hilaytv/tlc"
   }
 ]

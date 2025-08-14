@@ -5,7 +5,7 @@
     "code": "ESPN",
     "type": "video-redirect",
     "category": "sports",
-    "playlist": "https://tvpass.org/live/ESPN/hd"
+    "playlist": "https://maldivesn.net/hilaytv/espn"
   },
   {
     "number": "501",
@@ -13,7 +13,7 @@
     "code": "ESPN2",
     "type": "video-redirect",
     "category": "sports",
-    "playlist": "https://tvpass.org/live/ESPN2/hd"
+    "playlist": "https://maldivesn.net/hilaytv/espn2"
   },
   {
     "number": "502",
@@ -21,7 +21,7 @@
     "code": "ESPNU",
     "type": "video-redirect",
     "category": "sports",
-    "playlist": "https://tvpass.org/live/ESPNU/hd"
+    "playlist": "https://maldivesn.net/hilaytv/espnu"
   },
   {
     "number": "503",
@@ -29,26 +29,34 @@
     "code": "ESPNNews",
     "type": "video-redirect",
     "category": "sports",
-    "playlist": "https://tvpass.org/live/ESPNews/hd"
+    "playlist": "https://maldivesn.net/hilaytv/espnnews"
   },
   {
     "number": "504",
-    "name": "SEC Network",
-    "code": "SECN",
+    "name": "Sony Sports Ten 1 HD",
+    "code": "sonyten1",
     "type": "video-redirect",
     "category": "sports",
-    "playlist": "https://tvpass.org/live/SECN/hd"
+    "playlist": "https://maldivesn.net/hilaytv/sonyten1"
   },
   {
     "number": "505",
-    "name": "CBS Sports Network USA",
-    "code": "cbs-sports-us",
-    "type": "video",
+    "name": "Sony Sports Ten 2 HD",
+    "code": "sonyten1",
+    "type": "video-redirect",
     "category": "sports",
-    "playlist": "http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
+    "playlist": "https://maldivesn.net/hilaytv/sonyten2"
   },
   {
     "number": "506",
+    "name": "Sony Sports Ten 5 HD",
+    "code": "sonyten1",
+    "type": "video-redirect",
+    "category": "sports",
+    "playlist": "https://maldivesn.net/hilaytv/sonyten5"
+  },
+  {
+    "number": "508",
     "name": "Fox Sports",
     "code": "fox-sports",
     "type": "video",
@@ -56,7 +64,7 @@
     "playlist": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54"
   },
   {
-    "number": "507",
+    "number": "509",
     "name": "Fox Sports 1",
     "code": "fox-sports1",
     "type": "video",
@@ -64,7 +72,7 @@
     "playlist": "http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8"
   },
   {
-    "number": "508",
+    "number": "510",
     "name": "Fox Sports 2",
     "code": "fox-sports2",
     "type": "video-redirect",

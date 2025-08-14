@@ -1,6 +1,46 @@
 [
   {
     "number": "350",
+    "name": "Sony MAX HD",
+    "code": "sonysatmax",
+    "type": "video-redirect",
+    "category": "entertainment",
+    "playlist": "https://maldivesn.net/hilaytv/sonysatmax"
+  },
+  {
+    "number": "351",
+    "name": "Sony Kal US - HD",
+    "code": "sonysatkal",
+    "type": "video-redirect",
+    "category": "entertainment",
+    "playlist": "https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8"
+  },
+  {
+    "number": "352",
+    "name": "Star Plus HD",
+    "code": "starplus",
+    "type": "video-redirect",
+    "category": "entertainment",
+    "playlist": "https://maldivesn.net/hilaytv/starplus"
+  },
+  {
+    "number": "353",
+    "name": "Star Bharat HD",
+    "code": "starbharat",
+    "type": "video-redirect",
+    "category": "entertainment",
+    "playlist": "https://maldivesn.net/hilaytv/starbharat"
+  },
+  {
+    "number": "354",
+    "name": "Star Gold HD",
+    "code": "stargold",
+    "type": "video-redirect",
+    "category": "entertainment",
+    "playlist": "https://maldivesn.net/hilaytv/stargold"
+  },
+  {
+    "number": "369",
     "name": "TBS",
     "code": "TBSEast",
     "type": "video-redirect",
@@ -53,7 +93,7 @@
     "code": "star.mg",
     "type": "video",
     "category": "entertainment",
-    "playlist":"https://cdn2.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd"
+    "playlist": "https://cdn2.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd"
   },
   {
     "number": "380",

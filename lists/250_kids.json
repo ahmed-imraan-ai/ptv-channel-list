@@ -3,49 +3,41 @@
     "number": "250",
     "name": "Nick Jr",
     "code": "NickJrPlutoTV",
-    "type": "video",
+    "type": "video-redirect",
     "category": "kids",
-    "playlist": "http://fl2.moveonjoy.com/NICK_JR/index.m3u8"
+    "playlist": "https://maldivesn.net/hilaytv/nickjr"
   },
   {
     "number": "251",
     "name": "Disney Jr",
     "code": "DISNEY_JR",
-    "type": "video",
+    "type": "video-redirect",
     "category": "kids",
-    "playlist": "http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8"
+    "playlist": "https://maldivesn.net/hilaytv/disneyjr"
   },
   {
     "number": "252",
-    "name": "Disney Channel SD",
+    "name": "Disney Channel",
     "code": "DISNEY_CH",
     "type": "video-redirect",
     "category": "kids",
-    "playlist": "https://tvpass.org/live/DisneyChannelEast/sd"
+    "playlist": "https://maldivesn.net/hilaytv/disneychannel"
   },
   {
     "number": "253",
-    "name": "Disney Channel HD",
-    "code": "DISNEY_CH",
-    "type": "video-redirect",
-    "category": "kids",
-    "playlist": "https://tvpass.org/live/DisneyChannelEast/hd"
-  },
-  {
-    "number": "254",
-    "name": "Disney XD HD",
+    "name": "Disney XD",
     "code": "DISNEY_XD",
     "type": "video-redirect",
     "category": "kids",
-    "playlist": "https://tvpass.org/live/DisneyXDEast/hd"
+    "playlist": "https://maldivesn.net/hilaytv/disneyxd"
   },
   {
     "number": "255",
     "name": "Cartoon Network",
     "code": "CartoonNetwork",
-    "type": "video",
+    "type": "video-redirect",
     "category": "kids",
-    "playlist": "https://cdn2.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8"
+    "playlist": "https://maldivesn.net/hilaytv/cartoonnetwork"
   },
   {
     "number": "257",
@@ -53,15 +45,7 @@
     "code": "nickelodeon",
     "type": "video-redirect",
     "category": "kids",
-    "playlist": "https://tvpass.org/live/NickelodeonEast/sd"
-  },
-  {
-    "number": "258",
-    "name": "Nickelodeon HD",
-    "code": "nickelodeon",
-    "type": "video-redirect",
-    "category": "kids",
-    "playlist": "https://tvpass.org/live/NickelodeonEast/hd"
+    "playlist": "https://maldivesn.net/hilaytv/nickelodeon"
   },
   {
     "number": "259",
@@ -69,31 +53,7 @@
     "code": "nicktoons",
     "type": "video-redirect",
     "category": "kids",
-    "playlist": "https://tvpass.org/live/NicktoonsEast/sd"
-  },
-  {
-    "number": "260",
-    "name": "Nicktoons HD",
-    "code": "nicktoons",
-    "type": "video-redirect",
-    "category": "kids",
-    "playlist": "https://tvpass.org/live/NicktoonsEast/hd"
-  },
-  {
-    "number": "261",
-    "name": "TeenNick",
-    "code": "TeenNickEast",
-    "type": "video-redirect",
-    "category": "kids",
-    "playlist": "https://tvpass.org/live/TeenNickEast/sd"
-  },
-  {
-    "number": "262",
-    "name": "TeenNick HD",
-    "code": "TeenNickEast",
-    "type": "video-redirect",
-    "category": "kids",
-    "playlist": "https://tvpass.org/live/TeenNickEast/hd"
+    "playlist": "https://maldivesn.net/hilaytv/nicktoons"
   },
   {
     "number": "263",

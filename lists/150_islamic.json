@@ -11,9 +11,9 @@
     "number": "151",
     "name": "Al Quran Al Kareem TV",
     "code": "AlQuranAlKareemTV",
-    "type": "video",
+    "type": "video-redirect",
     "category": "quran",
-    "playlist": "http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8"
+    "playlist": "https://maldivesn.net/hilaytv/quruantv"
   },
   {
     "number": "152",
