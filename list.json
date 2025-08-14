@@ -92,7 +92,7 @@
     "number": "140",
     "name": "TVM 2",
     "code": "tvm",
-    "type": "video",
+    "type": "video-redirect",
     "category": "local",
     "playlist": "https://maldivesn.net/hilaytv/tvm"
   },
