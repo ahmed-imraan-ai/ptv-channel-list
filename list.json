@@ -5,7 +5,7 @@
     "code": "tvm",
     "type": "video",
     "category": "local",
-    "playlist": "https://maldivesn.net/hilaytv/tvm"
+    "playlist": "https://customer-y2yhzwk77gwatbip.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjIwMjZlOWY0ZTU2NDFkODI1Njk0MGE2ZDUzNmU3OTczIn0.eyJzdWIiOiJhNDhiMTY5NDE2NjJhOGJkNmVjYTg2Y2VlY2U0Y2UyNiIsImtpZCI6IjIwMjZlOWY0ZTU2NDFkODI1Njk0MGE2ZDUzNmU3OTczIiwiZXhwIjoiMTc1NTE5NDQwMCIsIm5iZiI6IjE3NTUxNDc2MDIifQ.V9fC0V3AwWTbekvqHRVdR_7T1xzHXH3R4IZRDY8-lpXAbQjUlBUrnt81l617DMaIZVz6BVCsDGuUoxJVEXEM7D8ZmvR_rBVfdcyG1E_oS6OBikaDKM9TutnkMKJ-URATCpzp-y_gjXC9FF_hbwupYLngYo1BxheUCQ8JH8bLPBuO5VUi4qeYTZi5bSLYG9-G1Gmx7ecM-Cs2rOOPGYMmPwhRGYgiffbqkeR27aP7kRLL4RgrxCLQ7gT_vM3o-6d7m-otxygMRpZd_g1N4gFFn6EXf56qX2qlGUX25O_oJ1CMuI7Ki-cPE7hI3_f0J-9NkahKMMy-yMawx9H_MzawGQ/manifest/video.m3u8"
   },
   {
     "number": "101",
@@ -13,7 +13,7 @@
     "code": "psm-news",
     "type": "video",
     "category": "local",
-    "playlist": "https://maldivesn.net/hilaytv/psmnews"
+    "playlist": "http://s5.alltvfree.com:8081/live/psmnews/playlist.m3u8"
   },
   {
     "number": "102",
@@ -21,7 +21,7 @@
     "code": "mendhurutv",
     "type": "video",
     "category": "local",
-    "playlist": "https://maldivesn.net/hilaytv/mendhurutv",
+    "playlist": "http://s5.alltvfree.com:8081/live/menduru/playlist.m3u8",
     "disabled": true
   },
   {
@@ -30,7 +30,7 @@
     "code": "yes-tv",
     "type": "video",
     "category": "local",
-    "playlist": "https://maldivesn.net/hilaytv/yeshilay"
+    "playlist": "http://s5.alltvfree.com:8081/live/yestv/playlist.m3u8"
   },
   {
     "number": "104",
@@ -57,14 +57,6 @@
     "playlist": "https://stream.raajje.mv/live/rtv_live/index.m3u8"
   },
   {
-    "number": "107",
-    "name": "Channel 13",
-    "code": "channel13",
-    "type": "video",
-    "category": "local",
-    "playlist": "https://maldivesn.net/hilaytv/channel13"
-  },
-  {
     "number": "108",
     "name": "MMTV",
     "code": "mmvt",
@@ -78,7 +70,7 @@
     "code": "sangutv",
     "type": "video",
     "category": "local",
-    "playlist": "https://maldivesn.net/hilaytv/sangutv"
+    "playlist": "http://s5.alltvfree.com:8081/live/sangu/playlist.m3u8"
   },
   {
     "number": "130",
@@ -86,7 +78,7 @@
     "code": "munnaaru-mv",
     "type": "video",
     "category": "local",
-    "playlist": "https://maldivesn.net/hilaytv/munnaaruhilay"
+    "playlist": "http://s5.alltvfree.com:8081/live/munnaaru1/playlist.m3u8"
   },
   {
     "number": "131",
@@ -94,7 +86,7 @@
     "code": "dhaaris",
     "type": "video",
     "category": "local",
-    "playlist": "https://maldivesn.net/hilaytv/dhaaris"
+    "playlist": "https://www.youtube.com/@dhaaristv/live"
   },
   {
     "number": "150",
