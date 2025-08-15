@@ -245,15 +245,7 @@
     "code": "animax",
     "type": "video",
     "category": "kids",
-    "playlist": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
-  },
-  {
-    "number": "281",
-    "name": "Anime TV",
-    "code": "anime-tv",
-    "type": "video",
-    "category": "kids",
-    "playlist": "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8"
+    "playlist": "http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8"
   },
   {
     "number": "282",
@@ -557,7 +549,7 @@
     "code": "NationalGeographic",
     "type": "video",
     "category": "documentary",
-    "playlist": "http://fl2.moveonjoy.com/National_Geographic/index.m3u8"
+    "playlist": "https://maldivesn.net/hilaytv/natgeo"
   },
   {
     "number": "451",
@@ -565,7 +557,7 @@
     "code": "NationalGeographicWild",
     "type": "video",
     "category": "documentary",
-    "playlist": "http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
+    "playlist": "https://maldivesn.net/hilaytv/natgeowild"
   },
   {
     "number": "452",
@@ -573,7 +565,7 @@
     "code": "DiscoveryChannelEast",
     "type": "video-redirect",
     "category": "documentary",
-    "playlist": "https://tvpass.org/live/DiscoveryChannelEast/hd"
+    "playlist": "https://maldivesn.net/hilaytv/discovery"
   },
   {
     "number": "453",
@@ -597,7 +589,7 @@
     "code": "animal-planet",
     "type": "video-redirect",
     "category": "documentary",
-    "playlist": "https://tvpass.org/live/AnimalPlanetEast/hd"
+    "playlist": "https://maldivesn.net/hilaytv/animalplanet"
   },
   {
     "number": "456",
@@ -605,10 +597,18 @@
     "code": "DiscoveryLife",
     "type": "video-redirect",
     "category": "documentary",
-    "playlist": "https://tvpass.org/live/DiscoveryLife/hd"
+    "playlist": "https://maldivesn.net/hilaytv/discoverylife"
   },
   {
     "number": "457",
+    "name": "Discovery Science",
+    "code": "DiscoveryScience",
+    "type": "video-redirect",
+    "category": "documentary",
+    "playlist": "https://maldivesn.net/hilaytv/discoveryscience"
+  },
+  {
+    "number": "458",
     "name": "History Channel",
     "code": "HistoryChannel",
     "type": "video-redirect",

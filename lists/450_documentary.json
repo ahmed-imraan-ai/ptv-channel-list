@@ -5,7 +5,7 @@
     "code": "NationalGeographic",
     "type": "video",
     "category": "documentary",
-    "playlist": "http://fl2.moveonjoy.com/National_Geographic/index.m3u8"
+    "playlist": "https://maldivesn.net/hilaytv/natgeo"
   },
   {
     "number": "451",
@@ -13,7 +13,7 @@
     "code": "NationalGeographicWild",
     "type": "video",
     "category": "documentary",
-    "playlist": "http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
+    "playlist": "https://maldivesn.net/hilaytv/natgeowild"
   },
   {
     "number": "452",
@@ -21,7 +21,7 @@
     "code": "DiscoveryChannelEast",
     "type": "video-redirect",
     "category": "documentary",
-    "playlist": "https://tvpass.org/live/DiscoveryChannelEast/hd"
+    "playlist": "https://maldivesn.net/hilaytv/discovery"
   },
   {
     "number": "453",
@@ -45,7 +45,7 @@
     "code": "animal-planet",
     "type": "video-redirect",
     "category": "documentary",
-    "playlist": "https://tvpass.org/live/AnimalPlanetEast/hd"
+    "playlist": "https://maldivesn.net/hilaytv/animalplanet"
   },
   {
     "number": "456",
@@ -53,10 +53,18 @@
     "code": "DiscoveryLife",
     "type": "video-redirect",
     "category": "documentary",
-    "playlist": "https://tvpass.org/live/DiscoveryLife/hd"
+    "playlist": "https://maldivesn.net/hilaytv/discoverylife"
   },
   {
     "number": "457",
+    "name": "Discovery Science",
+    "code": "DiscoveryScience",
+    "type": "video-redirect",
+    "category": "documentary",
+    "playlist": "https://maldivesn.net/hilaytv/discoveryscience"
+  },
+  {
+    "number": "458",
     "name": "History Channel",
     "code": "HistoryChannel",
     "type": "video-redirect",
