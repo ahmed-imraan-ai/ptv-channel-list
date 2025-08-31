@@ -84,9 +84,8 @@
     "number": "131",
     "name": "Dhaaris TV",
     "code": "dhaaris",
-    "type": "video",
+    "type": "video-yt",
     "category": "local",
-    "playlist": "https://www.youtube.com/@dhaaristv/live",
-    "disabled": true
+    "playlist": "https://www.youtube.com/@dhaaristv/live"
   }
 ]

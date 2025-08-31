@@ -72,6 +72,14 @@
     "playlist": "http://s5.alltvfree.com:8081/live/munnaaru1/playlist.m3u8"
   },
   {
+    "number": "131",
+    "name": "Dhaaris TV",
+    "code": "dhaaris",
+    "type": "video-yt",
+    "category": "local",
+    "playlist": "https://www.youtube.com/@dhaaristv/live"
+  },
+  {
     "number": "150",
     "name": "MakkahTV",
     "code": "makkah-tv",
